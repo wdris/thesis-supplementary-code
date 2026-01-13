@@ -1,0 +1,525 @@
+                                                                       val_accuracy: 0.000        0.00000                   
+                                                                       val_word_accuracy: 0.000                             
+                                                                       train_loss_epoch: 1878.793                           
+stage 14/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:02:53 • 0:00:00 0.14it/s train_loss_step: 983.539  early_stopping: 0/30       
+                                                                       val_accuracy: 0.134       0.13431                    
+                                                                       val_word_accuracy: 0.000                             
+                                                                       train_loss_epoch:                                    
+                                                                       1756.470                                             
+stage 15/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:14 • 0:00:00 0.12it/s train_loss_step: 804.391  early_stopping: 0/30       
+                                                                       val_accuracy: 0.148       0.14830                    
+                                                                       val_word_accuracy: 0.000                             
+                                                                       train_loss_epoch:                                    
+                                                                       1624.753                                             
+stage 16/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:04:28 • 0:00:00 0.11it/s train_loss_step: 879.766  early_stopping: 0/30       
+                                                                       val_accuracy: 0.153       0.15327                    
+                                                                       val_word_accuracy: 0.000                             
+                                                                       train_loss_epoch:                                    
+                                                                       1527.856                                             
+stage 17/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:14 • 0:00:00 0.15it/s train_loss_step: 859.883  early_stopping: 0/30       
+                                                                       val_accuracy: 0.157       0.15731                    
+                                                                       val_word_accuracy: 0.000                             
+                                                                       train_loss_epoch:                                    
+                                                                       1456.100                                             
+stage 18/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:01 • 0:00:00 0.14it/s train_loss_step: 819.982  early_stopping: 0/30       
+                                                                       val_accuracy: 0.175       0.17503                    
+                                                                       val_word_accuracy: 0.000                             
+                                                                       train_loss_epoch:                                    
+                                                                       1368.374                                             
+stage 19/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:01 • 0:00:00 0.13it/s train_loss_step: 735.451  early_stopping: 0/30       
+                                                                       val_accuracy: 0.217       0.21701                    
+                                                                       val_word_accuracy: 0.007                             
+                                                                       train_loss_epoch:                                    
+                                                                       1280.521                                             
+stage 20/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:05 • 0:00:00 0.13it/s train_loss_step: 701.279  early_stopping: 0/30       
+                                                                       val_accuracy: 0.288       0.28820                    
+                                                                       val_word_accuracy: 0.035                             
+                                                                       train_loss_epoch:                                    
+                                                                       1207.425                                             
+stage 21/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:02:54 • 0:00:00 0.14it/s train_loss_step: 598.242  early_stopping: 0/30       
+                                                                       val_accuracy: 0.325       0.32473                    
+                                                                       val_word_accuracy: 0.066                             
+                                                                       train_loss_epoch:                                    
+                                                                       1146.455                                             
+stage 22/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:06 • 0:00:00 0.13it/s train_loss_step: 619.110  early_stopping: 0/30       
+                                                                       val_accuracy: 0.342       0.34230                    
+                                                                       val_word_accuracy: 0.090                             
+                                                                       train_loss_epoch:                                    
+                                                                       1054.732                                             
+stage 23/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:09 • 0:00:00 0.12it/s train_loss_step: 542.649  early_stopping: 0/30       
+                                                                       val_accuracy: 0.417       0.41660                    
+                                                                       val_word_accuracy: 0.134                             
+                                                                       train_loss_epoch: 981.898                            
+stage 24/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:02:58 • 0:00:00 0.13it/s train_loss_step: 671.607  early_stopping: 0/30       
+                                                                       val_accuracy: 0.504       0.50427                    
+                                                                       val_word_accuracy: 0.183                             
+                                                                       train_loss_epoch: 900.301                            
+stage 25/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:26 • 0:00:00 0.10it/s train_loss_step: 456.296  early_stopping: 0/30       
+                                                                       val_accuracy: 0.584       0.58433                    
+                                                                       val_word_accuracy: 0.221                             
+                                                                       train_loss_epoch: 813.253                            
+stage 26/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:53 • 0:00:00 0.07it/s train_loss_step: 391.592  early_stopping: 0/30       
+                                                                       val_accuracy: 0.635       0.63470                    
+                                                                       val_word_accuracy: 0.269                             
+                                                                       train_loss_epoch: 730.526                            
+stage 27/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:43 • 0:00:00 0.10it/s train_loss_step: 390.786  early_stopping: 0/30       
+                                                                       val_accuracy: 0.663       0.66330                    
+                                                                       val_word_accuracy: 0.279                             
+                                                                       train_loss_epoch: 667.558                            
+stage 28/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:36 • 0:00:00 0.14it/s train_loss_step: 368.402  early_stopping: 0/30       
+                                                                       val_accuracy: 0.742       0.74242                    
+                                                                       val_word_accuracy: 0.356                             
+                                                                       train_loss_epoch: 601.545                            
+stage 29/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:02:54 • 0:00:00 0.14it/s train_loss_step: 401.644  early_stopping: 0/30       
+                                                                       val_accuracy: 0.752       0.75159                    
+                                                                       val_word_accuracy: 0.375                             
+                                                                       train_loss_epoch: 538.181                            
+stage 30/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:02:51 • 0:00:00 0.14it/s train_loss_step: 273.698  early_stopping: 0/30       
+                                                                       val_accuracy: 0.780       0.78020                    
+                                                                       val_word_accuracy: 0.415                             
+                                                                       train_loss_epoch: 482.024                            
+stage 31/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:03 • 0:00:00 0.14it/s train_loss_step: 222.609  early_stopping: 0/30       
+                                                                       val_accuracy: 0.784       0.78408                    
+                                                                       val_word_accuracy: 0.398                             
+                                                                       train_loss_epoch: 421.234                            
+stage 32/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:02:49 • 0:00:00 0.15it/s train_loss_step: 205.129  early_stopping: 0/30       
+                                                                       val_accuracy: 0.810       0.80958                    
+                                                                       val_word_accuracy: 0.433                             
+                                                                       train_loss_epoch: 375.405                            
+stage 33/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:02:57 • 0:00:00 0.13it/s train_loss_step: 166.553  early_stopping: 1/30       
+                                                                       val_accuracy: 0.807       0.80958                    
+                                                                       val_word_accuracy: 0.456                             
+                                                                       train_loss_epoch: 346.331                            
+stage 34/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:38 • 0:00:00 0.10it/s train_loss_step: 173.888  early_stopping: 0/30       
+                                                                       val_accuracy: 0.827       0.82652                    
+                                                                       val_word_accuracy: 0.500                             
+                                                                       train_loss_epoch: 307.058                            
+stage 35/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:04:19 • 0:00:00 0.11it/s train_loss_step: 108.664  early_stopping: 0/30       
+                                                                       val_accuracy: 0.835       0.83476                    
+                                                                       val_word_accuracy: 0.515                             
+                                                                       train_loss_epoch: 274.330                            
+stage 36/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:02:48 • 0:00:00 0.13it/s train_loss_step: 116.830  early_stopping: 0/30       
+                                                                       val_accuracy: 0.843       0.84253                    
+                                                                       val_word_accuracy: 0.532                             
+                                                                       train_loss_epoch: 245.036                            
+stage 37/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:02:48 • 0:00:00 0.14it/s train_loss_step: 95.793   early_stopping: 0/30       
+                                                                       val_accuracy: 0.850       0.85015                    
+                                                                       val_word_accuracy: 0.536                             
+                                                                       train_loss_epoch: 221.709                            
+stage 38/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:02:57 • 0:00:00 0.14it/s train_loss_step: 169.426  early_stopping: 0/30       
+                                                                       val_accuracy: 0.858       0.85761                    
+                                                                       val_word_accuracy: 0.558                             
+                                                                       train_loss_epoch: 199.738                            
+stage 39/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:13 • 0:00:00 0.11it/s train_loss_step: 83.601   early_stopping: 0/30       
+                                                                       val_accuracy: 0.862       0.86243                    
+                                                                       val_word_accuracy: 0.560                             
+                                                                       train_loss_epoch: 175.980                            
+stage 40/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:04:28 • 0:00:00 0.11it/s train_loss_step: 103.459  early_stopping: 0/30       
+                                                                       val_accuracy: 0.864       0.86367                    
+                                                                       val_word_accuracy: 0.561                             
+                                                                       train_loss_epoch: 163.046                            
+stage 41/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:40 • 0:00:00 0.14it/s train_loss_step: 65.312   early_stopping: 0/30       
+                                                                       val_accuracy: 0.864       0.86445                    
+                                                                       val_word_accuracy: 0.565                             
+                                                                       train_loss_epoch: 142.081                            
+stage 42/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:02:56 • 0:00:00 0.14it/s train_loss_step: 65.959   early_stopping: 1/30       
+                                                                       val_accuracy: 0.862       0.86445                    
+                                                                       val_word_accuracy: 0.573                             
+                                                                       train_loss_epoch: 129.917                            
+stage 43/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:02 • 0:00:00 0.14it/s train_loss_step: 94.482   early_stopping: 0/30       
+                                                                       val_accuracy: 0.870       0.86973                    
+                                                                       val_word_accuracy: 0.579                             
+                                                                       train_loss_epoch: 115.396                            
+stage 44/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:05 • 0:00:00 0.14it/s train_loss_step: 70.988   early_stopping: 1/30       
+                                                                       val_accuracy: 0.866       0.86973                    
+                                                                       val_word_accuracy: 0.564                             
+                                                                       train_loss_epoch: 110.511                            
+stage 45/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:02:58 • 0:00:00 0.14it/s train_loss_step: 43.799   early_stopping: 0/30       
+                                                                       val_accuracy: 0.872       0.87160                    
+                                                                       val_word_accuracy: 0.590                             
+                                                                       train_loss_epoch: 103.847                            
+stage 46/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:02:58 • 0:00:00 0.14it/s train_loss_step: 66.201   early_stopping: 1/30       
+                                                                       val_accuracy: 0.868       0.87160                    
+                                                                       val_word_accuracy: 0.578                             
+                                                                       train_loss_epoch: 102.184                            
+stage 47/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:02:59 • 0:00:00 0.13it/s train_loss_step: 55.379   early_stopping: 2/30       
+                                                                       val_accuracy: 0.865       0.87160                    
+                                                                       val_word_accuracy: 0.582                             
+                                                                       train_loss_epoch: 85.249                             
+stage 48/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:02:59 • 0:00:00 0.14it/s train_loss_step: 59.801   early_stopping: 0/30       
+                                                                       val_accuracy: 0.875       0.87486                    
+                                                                       val_word_accuracy: 0.586                             
+                                                                       train_loss_epoch: 78.995                             
+stage 49/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:02:56 • 0:00:00 0.14it/s train_loss_step: 47.527   early_stopping: 1/30       
+                                                                       val_accuracy: 0.873       0.87486                    
+                                                                       val_word_accuracy: 0.573                             
+                                                                       train_loss_epoch: 73.992                             
+stage 50/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:15 • 0:00:00 0.13it/s train_loss_step: 27.119   early_stopping: 0/30       
+                                                                       val_accuracy: 0.876       0.87642                    
+                                                                       val_word_accuracy: 0.590                             
+                                                                       train_loss_epoch: 68.445                             
+stage 51/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:08 • 0:00:00 0.13it/s train_loss_step: 23.892   early_stopping: 0/30       
+                                                                       val_accuracy: 0.884       0.88357                    
+                                                                       val_word_accuracy: 0.616                             
+                                                                       train_loss_epoch: 60.846                             
+stage 52/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:02:54 • 0:00:00 0.14it/s train_loss_step: 50.738   early_stopping: 1/30       
+                                                                       val_accuracy: 0.882       0.88357                    
+                                                                       val_word_accuracy: 0.611                             
+                                                                       train_loss_epoch: 57.420                             
+stage 53/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:02:58 • 0:00:00 0.13it/s train_loss_step: 32.664   early_stopping: 2/30       
+                                                                       val_accuracy: 0.878       0.88357                    
+                                                                       val_word_accuracy: 0.593                             
+                                                                       train_loss_epoch: 50.991                             
+stage 54/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:05 • 0:00:00 0.13it/s train_loss_step: 16.021   early_stopping: 3/30       
+                                                                       val_accuracy: 0.881       0.88357                    
+                                                                       val_word_accuracy: 0.606                             
+                                                                       train_loss_epoch: 49.334                             
+stage 55/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:02:56 • 0:00:00 0.14it/s train_loss_step: 33.136   early_stopping: 4/30       
+                                                                       val_accuracy: 0.879       0.88357                    
+                                                                       val_word_accuracy: 0.611                             
+                                                                       train_loss_epoch: 43.453                             
+stage 56/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:02:54 • 0:00:00 0.14it/s train_loss_step: 26.063   early_stopping: 5/30       
+                                                                       val_accuracy: 0.881       0.88357                    
+                                                                       val_word_accuracy: 0.608                             
+                                                                       train_loss_epoch: 44.826                             
+stage 57/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:02:56 • 0:00:00 0.14it/s train_loss_step: 21.386   early_stopping: 0/30       
+                                                                       val_accuracy: 0.884       0.88372                    
+                                                                       val_word_accuracy: 0.612                             
+                                                                       train_loss_epoch: 40.984                             
+stage 58/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:04 • 0:00:00 0.14it/s train_loss_step: 18.179   early_stopping: 1/30       
+                                                                       val_accuracy: 0.880       0.88372                    
+                                                                       val_word_accuracy: 0.602                             
+                                                                       train_loss_epoch: 37.267                             
+stage 59/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:02:56 • 0:00:00 0.14it/s train_loss_step: 23.910   early_stopping: 0/30       
+                                                                       val_accuracy: 0.887       0.88652                    
+                                                                       val_word_accuracy: 0.623                             
+                                                                       train_loss_epoch: 36.530                             
+stage 60/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:02:59 • 0:00:00 0.13it/s train_loss_step: 12.889   early_stopping: 1/30       
+                                                                       val_accuracy: 0.884       0.88652                    
+                                                                       val_word_accuracy: 0.617                             
+                                                                       train_loss_epoch: 33.232                             
+stage 61/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:05 • 0:00:00 0.13it/s train_loss_step: 28.651   early_stopping: 2/30       
+                                                                       val_accuracy: 0.882       0.88652                    
+                                                                       val_word_accuracy: 0.608                             
+                                                                       train_loss_epoch: 35.955                             
+stage 62/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:02 • 0:00:00 0.13it/s train_loss_step: 21.046   early_stopping: 3/30       
+                                                                       val_accuracy: 0.886       0.88652                    
+                                                                       val_word_accuracy: 0.613                             
+                                                                       train_loss_epoch: 31.105                             
+stage 63/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:02:57 • 0:00:00 0.13it/s train_loss_step: 22.565   early_stopping: 0/30       
+                                                                       val_accuracy: 0.887       0.88730                    
+                                                                       val_word_accuracy: 0.617                             
+                                                                       train_loss_epoch: 29.896                             
+stage 64/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:02:59 • 0:00:00 0.14it/s train_loss_step: 21.020   early_stopping: 1/30       
+                                                                       val_accuracy: 0.883       0.88730                    
+                                                                       val_word_accuracy: 0.613                             
+                                                                       train_loss_epoch: 27.268                             
+stage 65/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:00 • 0:00:00 0.14it/s train_loss_step: 9.946    early_stopping: 2/30       
+                                                                       val_accuracy: 0.883       0.88730                    
+                                                                       val_word_accuracy: 0.617                             
+                                                                       train_loss_epoch: 27.640                             
+stage 66/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:02:58 • 0:00:00 0.14it/s train_loss_step: 16.894   early_stopping: 3/30       
+                                                                       val_accuracy: 0.883       0.88730                    
+                                                                       val_word_accuracy: 0.615                             
+                                                                       train_loss_epoch: 26.681                             
+stage 67/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:02:49 • 0:00:00 0.14it/s train_loss_step: 16.837   early_stopping: 0/30       
+                                                                       val_accuracy: 0.889       0.88917                    
+                                                                       val_word_accuracy: 0.625                             
+                                                                       train_loss_epoch: 25.107                             
+stage 68/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:02:52 • 0:00:00 0.14it/s train_loss_step: 12.119   early_stopping: 0/30       
+                                                                       val_accuracy: 0.891       0.89103                    
+                                                                       val_word_accuracy: 0.623                             
+                                                                       train_loss_epoch: 26.301                             
+stage 69/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:02:54 • 0:00:00 0.14it/s train_loss_step: 13.548   early_stopping: 1/30       
+                                                                       val_accuracy: 0.880       0.89103                    
+                                                                       val_word_accuracy: 0.602                             
+                                                                       train_loss_epoch: 26.369                             
+stage 70/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:02:58 • 0:00:00 0.14it/s train_loss_step: 13.012   early_stopping: 2/30       
+                                                                       val_accuracy: 0.885       0.89103                    
+                                                                       val_word_accuracy: 0.616                             
+                                                                       train_loss_epoch: 25.915                             
+stage 71/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:02:51 • 0:00:00 0.15it/s train_loss_step: 10.378   early_stopping: 3/30       
+                                                                       val_accuracy: 0.884       0.89103                    
+                                                                       val_word_accuracy: 0.616                             
+                                                                       train_loss_epoch: 20.583                             
+stage 72/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:02:59 • 0:00:00 0.14it/s train_loss_step: 12.621   early_stopping: 0/30       
+                                                                       val_accuracy: 0.891       0.89134                    
+                                                                       val_word_accuracy: 0.638                             
+                                                                       train_loss_epoch: 21.075                             
+stage 73/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:07 • 0:00:00 0.12it/s train_loss_step: 14.345   early_stopping: 1/30       
+                                                                       val_accuracy: 0.890       0.89134                    
+                                                                       val_word_accuracy: 0.613                             
+                                                                       train_loss_epoch: 21.258                             
+stage 74/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:02:58 • 0:00:00 0.14it/s train_loss_step: 6.468    early_stopping: 2/30       
+                                                                       val_accuracy: 0.891       0.89134                    
+                                                                       val_word_accuracy: 0.620                             
+                                                                       train_loss_epoch: 18.448                             
+stage 75/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:08 • 0:00:00 0.12it/s train_loss_step: 13.235   early_stopping: 3/30       
+                                                                       val_accuracy: 0.890       0.89134                    
+                                                                       val_word_accuracy: 0.625                             
+                                                                       train_loss_epoch: 17.660                             
+stage 76/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:11 • 0:00:00 0.12it/s train_loss_step: 10.842   early_stopping: 0/30       
+                                                                       val_accuracy: 0.892       0.89196                    
+                                                                       val_word_accuracy: 0.617                             
+                                                                       train_loss_epoch: 14.942                             
+stage 77/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:06 • 0:00:00 0.12it/s train_loss_step: 8.021    early_stopping: 0/30       
+                                                                       val_accuracy: 0.895       0.89523                    
+                                                                       val_word_accuracy: 0.634                             
+                                                                       train_loss_epoch: 16.661                             
+stage 78/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:08 • 0:00:00 0.13it/s train_loss_step: 9.420    early_stopping: 1/30       
+                                                                       val_accuracy: 0.894       0.89523                    
+                                                                       val_word_accuracy: 0.629                             
+                                                                       train_loss_epoch: 15.115                             
+stage 79/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:02:54 • 0:00:00 0.14it/s train_loss_step: 7.376    early_stopping: 2/30       
+                                                                       val_accuracy: 0.893       0.89523                    
+                                                                       val_word_accuracy: 0.642                             
+                                                                       train_loss_epoch: 14.283                             
+stage 80/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:00 • 0:00:00 0.13it/s train_loss_step: 6.436    early_stopping: 0/30       
+                                                                       val_accuracy: 0.896       0.89554                    
+                                                                       val_word_accuracy: 0.638                             
+                                                                       train_loss_epoch: 14.265                             
+stage 81/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:09 • 0:00:00 0.13it/s train_loss_step: 4.668    early_stopping: 1/30       
+                                                                       val_accuracy: 0.895       0.89554                    
+                                                                       val_word_accuracy: 0.642                             
+                                                                       train_loss_epoch: 14.512                             
+stage 82/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:10 • 0:00:00 0.14it/s train_loss_step: 6.901    early_stopping: 2/30       
+                                                                       val_accuracy: 0.891       0.89554                    
+                                                                       val_word_accuracy: 0.631                             
+                                                                       train_loss_epoch: 14.623                             
+stage 83/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:06 • 0:00:00 0.12it/s train_loss_step: 8.102    early_stopping: 3/30       
+                                                                       val_accuracy: 0.891       0.89554                    
+                                                                       val_word_accuracy: 0.631                             
+                                                                       train_loss_epoch: 13.588                             
+stage 84/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:11 • 0:00:00 0.13it/s train_loss_step: 5.909    early_stopping: 4/30       
+                                                                       val_accuracy: 0.890       0.89554                    
+                                                                       val_word_accuracy: 0.623                             
+                                                                       train_loss_epoch: 13.220                             
+stage 85/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:15 • 0:00:00 0.11it/s train_loss_step: 5.748    early_stopping: 5/30       
+                                                                       val_accuracy: 0.890       0.89554                    
+                                                                       val_word_accuracy: 0.634                             
+                                                                       train_loss_epoch: 14.710                             
+stage 86/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:03 • 0:00:00 0.14it/s train_loss_step: 23.697   early_stopping: 6/30       
+                                                                       val_accuracy: 0.887       0.89554                    
+                                                                       val_word_accuracy: 0.614                             
+                                                                       train_loss_epoch: 15.274                             
+stage 87/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:00 • 0:00:00 0.13it/s train_loss_step: 4.011    early_stopping: 7/30       
+                                                                       val_accuracy: 0.895       0.89554                    
+                                                                       val_word_accuracy: 0.635                             
+                                                                       train_loss_epoch: 15.189                             
+stage 88/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:02:56 • 0:00:00 0.14it/s train_loss_step: 11.519   early_stopping: 8/30       
+                                                                       val_accuracy: 0.889       0.89554                    
+                                                                       val_word_accuracy: 0.629                             
+                                                                       train_loss_epoch: 11.613                             
+stage 89/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:02:58 • 0:00:00 0.14it/s train_loss_step: 4.518    early_stopping: 9/30       
+                                                                       val_accuracy: 0.891       0.89554                    
+                                                                       val_word_accuracy: 0.628                             
+                                                                       train_loss_epoch: 12.765                             
+stage 90/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:02:55 • 0:00:00 0.13it/s train_loss_step: 4.599     early_stopping: 10/30     
+                                                                       val_accuracy: 0.893        0.89554                   
+                                                                       val_word_accuracy: 0.637                             
+                                                                       train_loss_epoch: 12.393                             
+stage 91/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:02:59 • 0:00:00 0.13it/s train_loss_step: 12.798    early_stopping: 11/30     
+                                                                       val_accuracy: 0.887        0.89554                   
+                                                                       val_word_accuracy: 0.626                             
+                                                                       train_loss_epoch: 12.110                             
+stage 92/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:01 • 0:00:00 0.14it/s train_loss_step: 8.893     early_stopping: 12/30     
+                                                                       val_accuracy: 0.894        0.89554                   
+                                                                       val_word_accuracy: 0.635                             
+                                                                       train_loss_epoch: 10.994                             
+stage 93/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:02:59 • 0:00:00 0.13it/s train_loss_step: 5.631     early_stopping: 13/30     
+                                                                       val_accuracy: 0.891        0.89554                   
+                                                                       val_word_accuracy: 0.617                             
+                                                                       train_loss_epoch: 9.189                              
+stage 94/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:05 • 0:00:00 0.14it/s train_loss_step: 5.582     early_stopping: 14/30     
+                                                                       val_accuracy: 0.894        0.89554                   
+                                                                       val_word_accuracy: 0.633                             
+                                                                       train_loss_epoch: 10.341                             
+stage 95/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:04 • 0:00:00 0.13it/s train_loss_step: 8.349     early_stopping: 15/30     
+                                                                       val_accuracy: 0.894        0.89554                   
+                                                                       val_word_accuracy: 0.628                             
+                                                                       train_loss_epoch: 11.257                             
+stage 96/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:02 • 0:00:00 0.14it/s train_loss_step: 5.574     early_stopping: 16/30     
+                                                                       val_accuracy: 0.893        0.89554                   
+                                                                       val_word_accuracy: 0.632                             
+                                                                       train_loss_epoch: 11.209                             
+stage 97/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:02:59 • 0:00:00 0.13it/s train_loss_step: 6.471     early_stopping: 17/30     
+                                                                       val_accuracy: 0.894        0.89554                   
+                                                                       val_word_accuracy: 0.637                             
+                                                                       train_loss_epoch: 12.339                             
+stage 98/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:01 • 0:00:00 0.14it/s train_loss_step: 2.207     early_stopping: 18/30     
+                                                                       val_accuracy: 0.887        0.89554                   
+                                                                       val_word_accuracy: 0.615                             
+                                                                       train_loss_epoch: 11.086                             
+stage 99/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:01 • 0:00:00 0.14it/s train_loss_step: 6.461     early_stopping: 19/30     
+                                                                       val_accuracy: 0.894        0.89554                   
+                                                                       val_word_accuracy: 0.634                             
+                                                                       train_loss_epoch: 11.826                             
+stage 100/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:02:59 • 0:00:00 0.13it/s train_loss_step: 2.920     early_stopping: 20/30     
+                                                                       val_accuracy: 0.891        0.89554                   
+                                                                       val_word_accuracy: 0.635                             
+                                                                       train_loss_epoch: 10.525                             
+stage 101/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:02:56 • 0:00:00 0.14it/s train_loss_step: 3.557     early_stopping: 21/30     
+                                                                       val_accuracy: 0.889        0.89554                   
+                                                                       val_word_accuracy: 0.629                             
+                                                                       train_loss_epoch: 10.060                             
+stage 102/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:02:55 • 0:00:00 0.14it/s train_loss_step: 4.006     early_stopping: 22/30     
+                                                                       val_accuracy: 0.893        0.89554                   
+                                                                       val_word_accuracy: 0.633                             
+                                                                       train_loss_epoch: 9.809                              
+stage 103/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:02:59 • 0:00:00 0.14it/s train_loss_step: 4.194     early_stopping: 23/30     
+                                                                       val_accuracy: 0.892        0.89554                   
+                                                                       val_word_accuracy: 0.630                             
+                                                                       train_loss_epoch: 7.408                              
+stage 104/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:02 • 0:00:00 0.14it/s train_loss_step: 4.615     early_stopping: 24/30     
+                                                                       val_accuracy: 0.895        0.89554                   
+                                                                       val_word_accuracy: 0.638                             
+                                                                       train_loss_epoch: 9.258                              
+stage 105/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:01 • 0:00:00 0.14it/s train_loss_step: 5.055     early_stopping: 25/30     
+                                                                       val_accuracy: 0.891        0.89554                   
+                                                                       val_word_accuracy: 0.625                             
+                                                                       train_loss_epoch: 8.284                              
+stage 106/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:02:57 • 0:00:00 0.14it/s train_loss_step: 4.671     early_stopping: 26/30     
+                                                                       val_accuracy: 0.888        0.89554                   
+                                                                       val_word_accuracy: 0.615                             
+                                                                       train_loss_epoch: 10.264                             
+stage 107/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:02:53 • 0:00:00 0.13it/s train_loss_step: 3.222     early_stopping: 27/30     
+                                                                       val_accuracy: 0.891        0.89554                   
+                                                                       val_word_accuracy: 0.634                             
+                                                                       train_loss_epoch: 9.389                              
+stage 108/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:02:58 • 0:00:00 0.13it/s train_loss_step: 6.907    early_stopping: 0/30       
+                                                                       val_accuracy: 0.900       0.89958                    
+                                                                       val_word_accuracy: 0.648                             
+                                                                       train_loss_epoch: 10.587                             
+stage 109/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:02:57 • 0:00:00 0.14it/s train_loss_step: 3.948    early_stopping: 1/30       
+                                                                       val_accuracy: 0.893       0.89958                    
+                                                                       val_word_accuracy: 0.625                             
+                                                                       train_loss_epoch: 7.676                              
+stage 110/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:02:57 • 0:00:00 0.14it/s train_loss_step: 5.031    early_stopping: 2/30       
+                                                                       val_accuracy: 0.890       0.89958                    
+                                                                       val_word_accuracy: 0.619                             
+                                                                       train_loss_epoch: 8.265                              
+stage 111/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:01 • 0:00:00 0.14it/s train_loss_step: 10.868   early_stopping: 0/30       
+                                                                       val_accuracy: 0.900       0.90005                    
+                                                                       val_word_accuracy: 0.646                             
+                                                                       train_loss_epoch: 8.808                              
+stage 112/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:02:58 • 0:00:00 0.14it/s train_loss_step: 6.377    early_stopping: 1/30       
+                                                                       val_accuracy: 0.898       0.90005                    
+                                                                       val_word_accuracy: 0.642                             
+                                                                       train_loss_epoch: 7.776                              
+stage 113/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:05 • 0:00:00 0.13it/s train_loss_step: 2.722    early_stopping: 2/30       
+                                                                       val_accuracy: 0.893       0.90005                    
+                                                                       val_word_accuracy: 0.637                             
+                                                                       train_loss_epoch: 9.306                              
+stage 114/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:01 • 0:00:00 0.14it/s train_loss_step: 5.430    early_stopping: 3/30       
+                                                                       val_accuracy: 0.894       0.90005                    
+                                                                       val_word_accuracy: 0.632                             
+                                                                       train_loss_epoch: 8.465                              
+stage 115/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:08 • 0:00:00 0.14it/s train_loss_step: 3.007    early_stopping: 4/30       
+                                                                       val_accuracy: 0.889       0.90005                    
+                                                                       val_word_accuracy: 0.623                             
+                                                                       train_loss_epoch: 7.410                              
+stage 116/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:02:57 • 0:00:00 0.13it/s train_loss_step: 4.769    early_stopping: 5/30       
+                                                                       val_accuracy: 0.890       0.90005                    
+                                                                       val_word_accuracy: 0.620                             
+                                                                       train_loss_epoch: 8.525                              
+stage 117/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:15 • 0:00:00 0.12it/s train_loss_step: 4.678    early_stopping: 6/30       
+                                                                       val_accuracy: 0.897       0.90005                    
+                                                                       val_word_accuracy: 0.648                             
+                                                                       train_loss_epoch: 8.543                              
+stage 118/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:02:58 • 0:00:00 0.14it/s train_loss_step: 9.480    early_stopping: 7/30       
+                                                                       val_accuracy: 0.897       0.90005                    
+                                                                       val_word_accuracy: 0.637                             
+                                                                       train_loss_epoch: 6.887                              
+stage 119/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:07 • 0:00:00 0.14it/s train_loss_step: 4.586    early_stopping: 8/30       
+                                                                       val_accuracy: 0.893       0.90005                    
+                                                                       val_word_accuracy: 0.635                             
+                                                                       train_loss_epoch: 7.362                              
+stage 120/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:04 • 0:00:00 0.13it/s train_loss_step: 5.807    early_stopping: 9/30       
+                                                                       val_accuracy: 0.891       0.90005                    
+                                                                       val_word_accuracy: 0.624                             
+                                                                       train_loss_epoch: 7.333                              
+stage 121/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:02:57 • 0:00:00 0.14it/s train_loss_step: 5.280     early_stopping: 10/30     
+                                                                       val_accuracy: 0.890        0.90005                   
+                                                                       val_word_accuracy: 0.625                             
+                                                                       train_loss_epoch: 8.439                              
+stage 122/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:08 • 0:00:00 0.14it/s train_loss_step: 4.665     early_stopping: 11/30     
+                                                                       val_accuracy: 0.893        0.90005                   
+                                                                       val_word_accuracy: 0.631                             
+                                                                       train_loss_epoch: 9.865                              
+stage 123/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:02 • 0:00:00 0.13it/s train_loss_step: 8.180     early_stopping: 12/30     
+                                                                       val_accuracy: 0.891        0.90005                   
+                                                                       val_word_accuracy: 0.631                             
+                                                                       train_loss_epoch: 9.322                              
+stage 124/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:05 • 0:00:00 0.13it/s train_loss_step: 3.284     early_stopping: 13/30     
+                                                                       val_accuracy: 0.892        0.90005                   
+                                                                       val_word_accuracy: 0.637                             
+                                                                       train_loss_epoch: 8.592                              
+stage 125/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:12 • 0:00:00 0.13it/s train_loss_step: 2.060     early_stopping: 14/30     
+                                                                       val_accuracy: 0.891        0.90005                   
+                                                                       val_word_accuracy: 0.634                             
+                                                                       train_loss_epoch: 7.630                              
+stage 126/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:04 • 0:00:00 0.13it/s train_loss_step: 4.759     early_stopping: 15/30     
+                                                                       val_accuracy: 0.887        0.90005                   
+                                                                       val_word_accuracy: 0.624                             
+                                                                       train_loss_epoch: 9.705                              
+stage 127/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:02 • 0:00:00 0.12it/s train_loss_step: 3.428     early_stopping: 16/30     
+                                                                       val_accuracy: 0.891        0.90005                   
+                                                                       val_word_accuracy: 0.625                             
+                                                                       train_loss_epoch: 8.416                              
+stage 128/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:02:58 • 0:00:00 0.14it/s train_loss_step: 4.194     early_stopping: 17/30     
+                                                                       val_accuracy: 0.889        0.90005                   
+                                                                       val_word_accuracy: 0.620                             
+                                                                       train_loss_epoch: 9.502                              
+stage 129/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:06 • 0:00:00 0.14it/s train_loss_step: 11.644    early_stopping: 18/30     
+                                                                       val_accuracy: 0.891        0.90005                   
+                                                                       val_word_accuracy: 0.608                             
+                                                                       train_loss_epoch: 10.321                             
+stage 130/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:02:58 • 0:00:00 0.14it/s train_loss_step: 7.529     early_stopping: 19/30     
+                                                                       val_accuracy: 0.892        0.90005                   
+                                                                       val_word_accuracy: 0.628                             
+                                                                       train_loss_epoch: 9.116                              
+stage 131/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:01 • 0:00:00 0.13it/s train_loss_step: 2.123     early_stopping: 20/30     
+                                                                       val_accuracy: 0.894        0.90005                   
+                                                                       val_word_accuracy: 0.632                             
+                                                                       train_loss_epoch: 8.939                              
+stage 132/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:00 • 0:00:00 0.14it/s train_loss_step: 3.545     early_stopping: 21/30     
+                                                                       val_accuracy: 0.890        0.90005                   
+                                                                       val_word_accuracy: 0.635                             
+                                                                       train_loss_epoch: 9.384                              
+stage 133/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:01 • 0:00:00 0.13it/s train_loss_step: 3.100     early_stopping: 22/30     
+                                                                       val_accuracy: 0.891        0.90005                   
+                                                                       val_word_accuracy: 0.629                             
+                                                                       train_loss_epoch: 9.503                              
+stage 134/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:11 • 0:00:00 0.14it/s train_loss_step: 7.494     early_stopping: 23/30     
+                                                                       val_accuracy: 0.894        0.90005                   
+                                                                       val_word_accuracy: 0.634                             
+                                                                       train_loss_epoch: 9.392                              
+stage 135/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:08 • 0:00:00 0.14it/s train_loss_step: 6.151     early_stopping: 24/30     
+                                                                       val_accuracy: 0.892        0.90005                   
+                                                                       val_word_accuracy: 0.625                             
+                                                                       train_loss_epoch: 9.132                              
+stage 136/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:02:56 • 0:00:00 0.13it/s train_loss_step: 7.088     early_stopping: 25/30     
+                                                                       val_accuracy: 0.891        0.90005                   
+                                                                       val_word_accuracy: 0.627                             
+                                                                       train_loss_epoch: 11.663                             
+stage 137/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:00 • 0:00:00 0.14it/s train_loss_step: 4.750     early_stopping: 26/30     
+                                                                       val_accuracy: 0.893        0.90005                   
+                                                                       val_word_accuracy: 0.632                             
+                                                                       train_loss_epoch: 12.340                             
+stage 138/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:02:56 • 0:00:00 0.14it/s train_loss_step: 11.688    early_stopping: 27/30     
+                                                                       val_accuracy: 0.895        0.90005                   
+                                                                       val_word_accuracy: 0.640                             
+                                                                       train_loss_epoch: 9.746                              
+stage 139/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:02:57 • 0:00:00 0.13it/s train_loss_step: 3.831     early_stopping: 28/30     
+                                                                       val_accuracy: 0.896        0.90005                   
+                                                                       val_word_accuracy: 0.646                             
+                                                                       train_loss_epoch: 9.403                              
+stage 140/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:10 • 0:00:00 0.13it/s train_loss_step: 13.198    early_stopping: 29/30     
+                                                                       val_accuracy: 0.897        0.90005                   
+                                                                       val_word_accuracy: 0.658                             
+                                                                       train_loss_epoch: 10.052                             
+stage 141/∞ ━━━━━━━━━━━━━━━━━━━━━━━━━ 21/21 0:03:04 • 0:00:00 0.13it/s train_loss_step: 6.100     early_stopping: 30/30     
+                                                                       val_accuracy: 0.894        0.90005                   
+                                                                       val_word_accuracy: 0.644                             
+                                                                       train_loss_epoch: 8.134                              
+Moving best model models/kraken_cv2__111.mlmodel (0.9000466465950012) to models/kraken_cv2__best.mlmodel

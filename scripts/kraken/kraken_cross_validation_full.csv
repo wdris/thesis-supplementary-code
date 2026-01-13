@@ -1,0 +1,657 @@
+Image_ID,Source_Fold,Ground_Truth,Prediction,CER
+305-01.png,cv1,p.305,fp cae.,1.2
+305-02.png,cv1,Letters Orders and Instructions. December 1755.,Letters Orders and Instructiono Decamber 275s,0.1276595744680851
+305-04.png,cv1,to go to a place where I am to be commanded,to gyo to a place wheve I an to be commanded,0.0697674418604651
+305-05.png,cv1,"and directed by another, who can have no","and diroted by another, who can have nos",0.075
+305-06.png,cv1,"other pretence, than that of having a commis-","other pretence, than that of having a tommis",0.0444444444444444
+305-07.png,cv1,sion from the King.,orcon from thl Fng,0.3684210526315789
+305-08.png,cv1,We shall suffer very greatly in a little,We shall sufir very greatly in a tile,0.125
+305-09.png,cv1,"time, for want of Clothing for the Soldiers; and none","time, for want of Ciothing for the oldier, and none",0.0754716981132075
+305-10.png,cv1,"can be had here, nor in short, I believe in the","can be had here, noa in thort, Ibelrive in the",0.1063829787234042
+305-11.png,cv1,Country. Those which Carlyle and Dalton con-,Country. Those which Carlyhe and Dalton com-,0.0454545454545454
+305-12.png,cv1,"tracted to furnish, we are disappointed in; and","tacted to furish, we are diappointed in; ans",0.0851063829787234
+305-13.png,cv1,"they say, they have searched all the Stores in","they say, they have. searched all the Stoers in",0.0652173913043478
+305-14.png,cv1,"Maryland, as well as this part of Virginia, and","Marryland, as wecll as this part of Virginia, and",0.0425531914893617
+305-15.png,cv1,none are able to furnish Clothes. We have,none are abbe to fronish Clothes. We have,0.073170731707317
+305-16.png,cv1,sustained inconceivable losses by the commis-,sustained inconceivwable Cofses by the Aommf-,0.1333333333333333
+305-17.png,cv1,"saries delays"" many of the Carolina Beeves",saries delayso many of the Carolieia Beeves,0.0714285714285714
+305-18.png,cv1,"are dead, through poverty and bad manage-","are dead, through poverty and bad manage -",0.024390243902439
+305-19.png,cv1,ment; and the chief of them are too poor to,ment; and the chif of them are too pooi to,0.0465116279069767
+305-20.png,cv1,slaughter. Pray make my Compliments,sCauueghter. Seay make my Complinents,0.1714285714285714
+305-21.png,cv1,to my Friends below; and believe me etc.,to mg Driends below; and betieve me etc.,0.075
+305-22.png,cv1,G. W.,obese,1.0
+305-23.png,cv1,"P.S. The Committee, I believe,","26h. the C muister, Sbectiem.,",0.4666666666666667
+305-24.png,cv1,have not yet fixed the pay of,hawe not get ficed the pay of,0.1034482758620689
+305-25.png,cv1,the Lieutenant Colonel and Major.,the Oieutenant Colonel and hajor.,0.0606060606060606
+305-26.png,cv1,"Pray propose it, and let me know","Iray propove it, and bet me know",0.09375
+305-27.png,cv1,their Resolves.,theer Rasobls 5s.,0.4
+305-28.png,cv1,Alexandria December 5th. 1755.,"AAlexaedeia December st. 17755,",0.2333333333333333
+305-30.png,cv1,"5th To Lieutenant George Frazier,",21st. To Lieutenant George Frugar.,0.2727272727272727
+305-31.png,cv1,at Fredericksburgh.,at Frederchsbrurgh.,0.1578947368421052
+305-32.png,cv1,As a quantity of Salt is wanted at,ws a guantity of Sald is wante d at,0.1176470588235294
+305-33.png,cv1,"Fort Cumberland for curing the provisions, you","i Cumberland for curing the provisions, you",0.0869565217391304
+305-34.png,cv1,must endeavour to purchase it upon the best,must ende arvur to purchase it upon the best,0.0697674418604651
+305-35.png,cv1,terms you can; and I shall fulfil any contract,terns. you can; and Ishall fulfil any contral,0.108695652173913
+305-36.png,cv1,you may enter into. What I have engaged here,you may enter ints. Wlat Shave engaged here,0.0909090909090909
+306-01.png,cv1,306. Letters Orders and Instructions. Decem. 1755,"4t. Letters Orders and Instructions Facem, 1755.",0.1632653061224489
+306-03.png,cv1,has been at 2s/. per bushel. You may procure,has bren at ef per bushel. You may prouue,0.1590909090909091
+306-04.png,cv1,"six or eight hundred bushel at that rate,","tix or eight hundrld tishels at that rate,",0.1219512195121951
+306-05.png,cv1,and see that they are forwarded to Winches-,and see that they o fowarded to Winchor-,0.1395348837209302
+306-06.png,cv1,"ter as expeditiously as possible"" in order to do",ter as rxpedrtouty as pgible in order to d,0.2083333333333333
+306-07.png,cv1,"this, you must hire and impress waggons""","this, you mst hie and impress Waggons.",0.1
+306-08.png,cv1,those Horses which were sent round from,thase Hoarses which re sent round from,0.1025641025641025
+306-09.png,cv1,"Williamsburgh, are also to go up; and a mili-","illiamsCurgh, are also to go uh; and a il-",0.1111111111111111
+306-10.png,cv1,"tary Chest which Mr. Allen made for me, is",tary hest which Mr. Ailen made for m.,0.1666666666666666
+306-11.png,cv1,to receive the first conveyance You are to,to receive the frst conveyance. You are to,0.0476190476190476
+306-12.png,cv1,"remain in Fredericksburgh and Falmouth,","remain in Fredeircksburgh and Falmouth,",0.0512820512820512
+306-13.png,cv1,"seeing these things done, until further Orders.","sceing there thinag done, untirl furtbhon Ord57.",0.2340425531914893
+306-14.png,cv1,"All the Recruits which now are, and shall","ySll the Recruits which now are, and shall",0.048780487804878
+306-15.png,cv1,"arrive at Fredericksburgh, between this and","arrive at Fredericksburgh, between this and",0.0
+306-16.png,cv1,"the 25th. Instant, must immediately proceed","the 6th. Instant, must immediately proceed",0.0465116279069767
+306-17.png,cv1,to the Rendezvous at Winchester.,to the Rendezvous at Winchester.,0.0
+306-18.png,cv1,"N""B. Enquire of Mr. Dick and other Mer-",N.B. Cngeiue of c Dick und other Aer-,0.2564102564102564
+306-19.png,cv1,"chants, whether Commissary Walker has en-","chants, whetheur Commissary Watker has en-",0.048780487804878
+306-20.png,cv1,"gaged Salt of them"" if he has, you have","gaged Salt of them"" iof he has, you have",0.0256410256410256
+306-21.png,cv1,then only to forward it up.,then onby to forward it up.,0.037037037037037
+306-22.png,cv1,"Alexandria"" December 5th. 1755.",Alexandria. December 1st. 1755.,0.1290322580645161
+306-24.png,cv1,"8th. To Captain Robert Stewart,","1st. To Captain Aobert Stewart,",0.1290322580645161
+306-25.png,cv1,at Winchester.,at Wincbester.,0.0714285714285714
+306-26.png,cv1,You are hereby required to take,You are hereby regured to take,0.064516129032258
+306-27.png,cv1,charge of the Recruits sent to Winchester by,charge of the Reeruits sent to Winchester by,0.0227272727272727
+306-28.png,cv1,"Captain Gist, whose Son you must Order",Caplcun Gist; whoe Son you must Order-,0.1578947368421052
+306-29.png,cv1,to proceed immediately and join his Father.,to proceed immediately and jsoin his Farch.,0.1162790697674418
+306-30.png,cv1,Captain Gist this day received,Catain Gist thies day received,0.0666666666666666
+306-31.png,cv1,one hundred pounds to recruit with; and,one Cundred poundts to recrit withg anid,0.1282051282051282
+306-32.png,cv1,the same Orders that were given to the o-,the same Orders that were yiven to the o-,0.024390243902439
+306-33.png,cv1,ther officers on the 3rd. instant etc.,ther Officery on the 1st. ingtant. De.,0.2631578947368421
+306-34.png,cv1,G. W.,ofre,1.0
+306-35.png,cv1,"Alexandria"" December 8th. 1755.",Alecandeca December t. 175.,0.2258064516129032
+307-02.png,cv1,Letters Orders and Instructions. December 1755.,Letters Orders and Instructions. Becember 5,0.1063829787234042
+307-04.png,cv1,10th. Alexandria December 10th. 1755.,28th. G. Ateeandria Deuember dogg.,0.4864864864864865
+307-05.png,cv1,"A Sergeant and twelve men, to be","Al Sergeant and twvelve men, to be",0.0625
+307-06.png,cv1,in readiness to escort a waggon up to Winchester to-,in readiness to eeort a Waggon up to Winchester to-,0.0576923076923076
+307-07.png,cv1,morrow.,obieon to.,1.1428571428571428
+307-09.png,cv1,"11th. To Sergeant Campbell, of the Virginia Regiment.","f. To Vergeant Campbell, of the Vbrginia Regiment.",0.1132075471698113
+307-10.png,cv1,You are to be particularly careful of the,You are to be patticularly earful of the,0.073170731707317
+307-11.png,cv1,"Waggons etc. under your charge, and are to see that centi-","Waggons et. under your tharge, and are to see thateenti-",0.0689655172413793
+307-12.png,cv1,nels are kept over them. If any just complaint is made,nels are kept over them. If any jzust complaint is made,0.0185185185185185
+307-13.png,cv1,"of the misbehaviour of the party under your command,","of the misbchaviour of the party under your command,",0.0192307692307692
+307-14.png,cv1,"upon their march, you will be punished by a Court Mar-","upon their march, you will be pueniched by a touert toran",0.1481481481481481
+307-15.png,cv1,tial -. You are to see that the waggoners do not loiter,tiab. You are to see that the Maggoners do not boiter,0.0909090909090909
+307-16.png,cv1,or idle their time; but make the utmost dispatch to,"or idle their time, but make the ulnost dispatch to",0.0588235294117647
+307-17.png,cv1,"Winchester. So soon as you arrive at Winchester, you","Wlnchester. Io soon as you arrvive at Winchestor, you",0.0769230769230769
+307-18.png,cv1,"are to deliver the things to the Commissary there, and","are to deliver the things to the Commissary there, and",0.0
+307-19.png,cv1,are to take his receipt for them.,are to take his treceipl for them.,0.0606060606060606
+307-20.png,cv1,"Given at Alexandria, etc. December","Givon at Adlexandria, eto. I ecember",0.1470588235294117
+307-21.png,cv1,11th. 1755.,st. 175t.,0.3636363636363636
+307-22.png,cv1,G. W. Aide de camp.,t. aid de oamp.,0.3684210526315789
+307-24.png,cv1,16th. To Captains' Savage and Mc.Kenzie,28th. To Oagetains Sevage and N Acengis,0.3333333333333333
+307-25.png,cv1,You are ordered to remain here with,You are ordered to remain here with,0.0
+307-26.png,cv1,your Recruits until further orders. So soon as you ar-,your Recruits nentil further Orders. So soon asyou ar-,0.074074074074074
+307-27.png,cv1,"rive here, your men will be supplied with Clothes by","hive hrare, your onen will be supptied irtl. Clothes b,",0.2115384615384615
+307-28.png,cv1,applying to Major Carlyle. If any of your men,applying to Aajor Carlyle. If any of your men,0.0222222222222222
+307-29.png,cv1,"should desert, you are to use your utmost dili-","should desert, you are to ase your utmost dili-",0.0212765957446808
+307-30.png,cv1,"gence in pursuing and apprehending them, by im-","gence in purrsuing and apprehending them, by im-",0.0212765957446808
+307-31.png,cv1,"mediately advertising, and sending a party or","mediately advertising, and sending a paity or",0.0222222222222222
+307-32.png,cv1,parties after them.,parties after them.,0.0
+307-33.png,cv1,"Alexandria"" December 16, 1755.","Alexandria. December 1th, 1755.",0.1
+307-35.png,cv1,16th. To Ensign Buckner. Quarter Master to the Virginia,t. To Ensign Buckner. uarteraster to the Vrginia,0.1272727272727272
+307-36.png,cv1,Regiment. - The Recruits now in this town are to re-,Regimont- The Reouuits now in this town ar tee-,0.173076923076923
+308-01.png,cv1,308. Letters Orders and Instructions December 1755.,270. Letters Orders and Instructions December 1755.,0.0588235294117647
+308-03.png,cv1,remain here until the arrival of the vessel with,remain here until the arrival of the vsesorl watl,0.1041666666666666
+308-04.png,cv1,"the Stores, etc. and to be under the same directions","the Stores, etc and to be under the same direetions",0.0384615384615384
+308-05.png,cv1,"as before ordered. So soon as the Stores arrive, you","as befou Ordered. To soon as the Stonre; arrive, you",0.1153846153846153
+308-06.png,cv1,"are, with all possible dispath, to procure a suf-","are, with all possible dispatch, te procune a sref-",0.1020408163265306
+308-07.png,cv1,ficient number of waggons to carry them to Win-,fcient umber of Oaggons to carry them to n-,0.1063829787234042
+308-08.png,cv1,"chester; whither they are to be sent, under the","thester; whsther they are to be sent, under the",0.0425531914893617
+308-09.png,cv1,"escort of the Soldiers now here"" except the Suits",eort of the Soldiers now heres socept the Suits,0.1020408163265306
+308-10.png,cv1,"of Clothes; Shoes, Stocking, Shirts, etc. proportiona-","of Clothes, Shoes, Ctorkings, Shirts, sec prportiona",0.1666666666666666
+308-11.png,cv1,bly which are to be left with Colonel Carlyle.,"bty, which are to be teft wteh Cotoal Cartyle",0.217391304347826
+308-12.png,cv1,You are to be very careful of all the,Youare to be very careful of all the,0.027027027027027
+308-13.png,cv1,"Things delivered into the waggons, and see that","Things delivered into the waggons, and see chat",0.0212765957446808
+308-14.png,cv1,"a strict Guard is kept over them, that no embez-","a strict Puard is hept owor them, that no embey-",0.1041666666666666
+308-15.png,cv1,zlement is made. If your men can not be,Gement is made. If your Mecen can not be,0.1282051282051282
+308-16.png,cv1,conveniently Quartered on their march up; there,conveniently urartered on their marchnp; there,0.0851063829787234
+308-17.png,cv1,"will be a number of Tents among the Stores, which","will be a number of Dents among the Stores, whih",0.0408163265306122
+308-18.png,cv1,must be made use of. - If any of the Soldiers,must be made use of  If amy of the Soldiers,0.0666666666666666
+308-19.png,cv1,"should desert from this place, - it would be proper","should deurt from this place, - it would be proper",0.0392156862745098
+308-20.png,cv1,"to send a Sergeant, and one or two trusty men","to send a Sergeant, and one or twe tuisty men,",0.0888888888888888
+308-21.png,cv1,in pursuit of them.,in prrrsuit of them.,0.1052631578947368
+308-22.png,cv1,Given at Alexandria etc.,Given ate Recundria etc.,0.2083333333333333
+308-23.png,cv1,December 16th. 1755.,ecember 29th. 1755.,0.15
+308-25.png,cv1,"16th. To Doctor James Craik, of the Virginia","2th. To Doctor Iames Craik, of the Vrginiae",0.1136363636363636
+308-26.png,cv1,Regiment.,ARegiment.,0.1111111111111111
+308-27.png,cv1,So soon as the Vessel with the,Io soon as the Ooel with the,0.1666666666666666
+308-28.png,cv1,"Stores and medicines arrives, you are to embrace","Stores and edicines arrives, your are to embace",0.0625
+308-29.png,cv1,"the first opportunity that offers, of conveying up","the first opporturnity shat offers, of conveying up",0.04
+308-30.png,cv1,"your Chest, and proceeding, yourself, to Winches-","your Shert, and prsceeding, yourself to Winches-",0.0816326530612244
+308-31.png,cv1,"ter. You are to provide yourself here, with",th. You are to provide yourself kere with,0.0930232558139534
+308-32.png,cv1,what you think will be wanting for the Hos-,what you think will be wanting for the Hos-,0.0
+308-33.png,cv1,"pital, and bring them up with you; taking","pitd, and bring them up with you; taking",0.048780487804878
+308-34.png,cv1,care to purchase no more than is absolutely,care to purchase no more than is absoluitely,0.0232558139534883
+308-35.png,cv1,"necessary, for the support and relief of the Regiment","necessary, for the support und saliefh of the Regiwm",0.1509433962264151
+309-01.png,cv1,p.309.,p bet.,0.6666666666666666
+309-02.png,cv1,Letters Orders and Instructions December 1755.,"fitters Orders and Instructions Dccember 1755,",0.0869565217391304
+309-04.png,cv1,Given at Alexandria etc.,Given at Alexandria etc.,0.0
+309-05.png,cv1,December 16th. 1755.,ecember 2sth. 1755.,0.15
+309-07.png,cv1,16th. To Captain John Mercer. of the,29th. To Captain Iohn Mercer. of the,0.0833333333333333
+309-08.png,cv1,Virginia Regiment.,Vrginia Aeguimont.,0.2222222222222222
+309-09.png,cv1,"You are immediately, upon receipt","You are immediately, upon receipt",0.0
+309-10.png,cv1,"hereof, to repair to Winchester, where you will meet","hereof, to repaur to Winchester, where you will meuet",0.0384615384615384
+309-11.png,cv1,"with Colonel Washington, and receive further orders.","wich Coloned Washington, and receivne furtber order.",0.0961538461538461
+309-12.png,cv1,I am etc.,I am Wtc.,0.1111111111111111
+309-13.png,cv1,G. W. aid de camp.,. aid eecanp.,0.3888888888888889
+309-14.png,cv1,"Alexandria"" December 16th. 1755.","Alecandrias December 26t. 1755,",0.15625
+309-15.png,cv1,"N""B. A Copy left at Alexandria, and another","M. AMCopy left at Alexandria, and another",0.0930232558139534
+309-16.png,cv1,"sent to Stafford, to him there.","eant o Safford, to him theu.",0.1935483870967742
+309-18.png,cv1,"20th. Parole Abbemarle. Winchester"" December 20th. 1755.",28th. Iroe lCemarll W rcherter Dercember Or17755.,0.375
+309-19.png,cv1,A Return to be given in immedi-,A Retirn to be given in immed-,0.064516129032258
+309-20.png,cv1,"ately of the Recruits now in this town, by the several","ately of the Recruits now in this town, by the seoveral",0.0185185185185185
+309-21.png,cv1,"Officers who enlisted them; mentioning their height,","Officers who enlisted them; mentioneny theirheight,",0.0576923076923076
+309-22.png,cv1,"age, trade, etc. The officers to see that the Serge-","age, trade, etc. The Officers to sre that the Serg-",0.0576923076923076
+309-23.png,cv1,"ants who understand the manual Exercise, do","anty who understand the manual Ocdicise, do",0.1162790697674418
+309-24.png,cv1,"drill the Recruits, at least twice a-day.","drill the Recruits, at least torie aday.",0.0975609756097561
+309-26.png,cv1,"22nd. Parole Boston- Winchester"" December 22nd. 1755.",28th. Paerole Boston.- Fnchester. December ch 17x5.,0.2641509433962264
+309-27.png,cv1,A Return is to be made every mor-,A Return is to be made every ma,0.0909090909090909
+309-28.png,cv1,ning to Colonel Washington of the number of,ning to Colonel Wishington of the numberof,0.0465116279069767
+309-29.png,cv1,men in this town - and all contingences.,men in this town - and all contingencds.,0.025
+309-30.png,cv1,"During his stay here, no provision is to be de-","During his stay here, ns provis ion is to be de-",0.0425531914893617
+309-31.png,cv1,"livered out, but by a written order from him or","livered out, but by a uritten order fom himeor",0.0638297872340425
+309-32.png,cv1,the aid de camp. The Commissary is to send,the aid de camp. The Commissay is to end,0.0476190476190476
+309-33.png,cv1,up the Cask of Tools by the first waggon that,up the Cash of Tols by the first waggon thct,0.0666666666666666
+309-34.png,cv1,goes to the Fort. The following men being judg-,you to the Fot. The following men beingnt-,0.1914893617021276
+309-35.png,cv1,"ed unfit for Duty, on Review; are ordered to be","ed unfit for Duty, on Revien, are ordered to be",0.0425531914893617
+309-36.png,cv1,"discharged"" viz.",dis chargad. 7iietd,0.5
+270-01.png,cv2,"270. Letters, Orders and Instructions. October 1755.","23. Letters, Orders and Instructions. October 1755.",0.0384615384615384
+270-03.png,cv2,"only for the publick use, unless by particu-",only for the publick eiseunless by particu-,0.0909090909090909
+270-04.png,cv2,lar Orders from me. You are to send,lar Rders forom me. Yfou are to send,0.1142857142857142
+270-05.png,cv2,"down a Barrel of Flints with the Arms, to","down a Barrel of Tlents with the terms, to",0.0975609756097561
+270-06.png,cv2,"Winchester, and about two thousand weight","Binchester, and about two thousand veight",0.048780487804878
+270-07.png,cv2,"of Flour, for the two Companies of Rangers;","of Blour, for the tie Companiss of Rangers;.",0.1162790697674418
+270-08.png,cv2,twelve hundred of which to be delivered,twelve hundred of which to be delivered,0.0
+270-09.png,cv2,"Captain Ashby and Company, at the","Captain Ashly and Company, at the",0.0303030303030303
+270-10.png,cv2,Plantation of Charles Sellars - the rest to Captain,Bantation of Charles Sellars - the rerst totg.,0.196078431372549
+270-11.png,cv2,"Cockes' Company, at Nicholas Reasmers.","todis Company, at Necholas Rearmers-",0.2105263157894736
+270-12.png,cv2,October 26th. G. W.,sceor t. Wt.,0.5789473684210527
+270-14.png,cv2,"28th Winchester"" October 28th, 1755.",29th. Wichester Occobber 2ch. 1755.,0.25
+270-15.png,cv2,Parole Hampton.,Parole Hampton.,0.0
+270-16.png,cv2,The Officers who came down,The Officers who came down,0.0
+270-17.png,cv2,from Fort Cumberland with Colonel,from Fort Cumberland with Coloncl,0.0303030303030303
+270-18.png,cv2,"Washington, are immediately to go Recrui-","Wahington, are immediately to go Recrui-",0.024390243902439
+270-19.png,cv2,ting; and they are allowed until the 1st. of De-,tings and they are allowed until the 1st. of Kec.,0.0833333333333333
+270-20.png,cv2,cember; at which time if they do not,cenker; at which time if they do notr,0.0833333333333333
+270-21.png,cv2,punctually appear at the place of Rendez-,punctually appear at the pl ace of Rendey-,0.048780487804878
+270-22.png,cv2,"vous assigned them, they will be tried by a","wous aseigned them, they will be ticd by a-",0.1162790697674418
+270-23.png,cv2,"Court Martial, for disobedience of Orders.","Court Martiat, for disobediince of Orders.",0.0476190476190476
+270-24.png,cv2,They are to wait upon the Aid de camp,They are to wait upon the Vid de camp,0.027027027027027
+270-25.png,cv2,"at one of the Clock, to receive their Recrui-","at one of the Clock, to receive thair Recrer -",0.0888888888888888
+270-26.png,cv2,"ting Instructions. Each Officer present, to give","ting I nstuuctions- Each Officer present, to give",0.0625
+270-27.png,cv2,in a Return immediately of the number,in a Pe buon immediately of the number,0.1081081081081081
+270-28.png,cv2,"of men he has enlisted. - One Subaltern,","of men he has clisted  - Jne Subaltern,",0.1
+270-29.png,cv2,"one Sergeant, one Corporal, one Drummer,","one Sergeaent, one Couporal, one Drummer,",0.05
+270-30.png,cv2,"and twenty five private men, are to mount","and tienly feie private onen, are lto mount",0.1707317073170731
+270-31.png,cv2,"Guard to - day, and to be relieved to - morrow","Greard to- day, and to be reliewed to morrou",0.1521739130434782
+270-32.png,cv2,at ten o'clock. -. All Reports and Returns,at ten o Slock - lReports ansletums,0.2857142857142857
+270-33.png,cv2,are to be made to the Aid de Camp.,are to be made to the trid de camp.,0.088235294117647
+271-02.png,cv2,"Letters, Orders and Instructions. October 1755. - 271.","Lettir, Orders and Enstsructions. October 1755. 27c.",0.1296296296296296
+271-04.png,cv2,"28th. To Ensign Fleming, of the Virginia Regiment.","30 to Endign Fleming, of the rginia Regiment-",0.2
+271-05.png,cv2,You are hereby ordered to repair to,You are herelby Ordered to repain to,0.0857142857142857
+271-06.png,cv2,Captain Hogg's Company at Fort Dinwiddie,Captain Hoggs Company at Fort Dinmdoie,0.1
+271-07.png,cv2,"with eight good men"" as that Company is",with eight gook menras that C ompaney is,0.1282051282051282
+271-08.png,cv2,"without a Surgeon, if you will do that duty, an","without a Surgon, c youe will do that dutis, aon",0.1489361702127659
+271-09.png,cv2,allowance will be made you for it. You are,allowance will be made you for it. You are,0.0
+271-10.png,cv2,"to provide medicines, etc. upon the best terms","to prorvede medicines, Ie upon the best termes",0.1521739130434782
+271-11.png,cv2,you can. This Order I expect will be immedi-,yyou can. this Order I coxpect aill be immedi-,0.1136363636363636
+271-12.png,cv2,ately complied with; and that no Delays be of-,ately complied with; and that no Delays be of,0.0217391304347826
+271-13.png,cv2,fered. You are to account with Captain Bell,feredr- you are to account with Captain Bell,0.0697674418604651
+271-14.png,cv2,"for your recruiting money, before you leave him.","foe your recruiting money, hef ore you learve him.",0.0833333333333333
+271-15.png,cv2,If you should arrive at Augusta Court House,I f you should arrive at lugus ta Court House,0.0697674418604651
+271-16.png,cv2,"before Sergeant Wilper and his Party, you are to","before Sergeant Wilper ano his Pauts, you are to",0.0625
+271-17.png,cv2,"halt there until he joins, in order to escort the","talt there until he joins, in order to cseort the",0.0612244897959183
+271-18.png,cv2,"Ammunition, etc. for the Fort; where you will","temmunition, etc. for the Fort,; where you mill",0.0888888888888888
+271-19.png,cv2,receive Clothes and Arms for the Men.,aeceive Clothes and ltrms for the Men.,0.081081081081081
+271-21.png,cv2,28th. To Captain Bell of the Virginia Regiment.,29th. To Captain Bell of the Virginia Regiment.,0.0212765957446808
+271-22.png,cv2,I have Ordered Ensign Fleming,Thave Ordered Insign Hlemingd,0.1724137931034483
+271-23.png,cv2,to Repair to Captain Hoggs Company with eight,to Repair to Captain Hoggs Company withaight,0.0444444444444444
+271-24.png,cv2,good men; which I expect you will see immedi-,"good men, which I expect you will dsee immedi-",0.0444444444444444
+271-25.png,cv2,ately complied with. He is to account with you,ately comptied with. Be is to account with you,0.0434782608695652
+271-26.png,cv2,for his recruiting money before he leaves you.,fo his recruiting money befoue he leaves you-,0.0652173913043478
+271-27.png,cv2,"You are hereby ordered, peremptorily, to be at","You are herely ordered, peremptorily, to lo at",0.0652173913043478
+271-28.png,cv2,"this place with what men you have, or can en-","thi plac with what men you have, or can en-",0.0444444444444444
+271-29.png,cv2,list by the 1st. of December. Your late disobedi-,list by the 1s. of December. Your late disobedi-,0.0204081632653061
+271-30.png,cv2,ence of Orders has greatly displeased me. It is,"ence of Orders has yeally, displeased me. Io is",0.1063829787234042
+271-31.png,cv2,"impossible to carry on affairs as they ought to be,","imposible to carry on effairs as they ought to be,",0.0392156862745098
+271-32.png,cv2,when you pay so little regard to the Force of a,when you pay solittle ruegard to the oce ofa,0.1063829787234042
+271-33.png,cv2,Military Order - You must be conscious within,Military Order - You must be conscious mithin,0.0222222222222222
+271-34.png,cv2,yourself (or at least ought to be) that your Crime,yourelf tor at least ought to bes that your trimne,0.1
+271-35.png,cv2,is sufficient to Break the best Officer that ever,is suffreint to Sreak the best Officer that wer-,0.1428571428571428
+271-36.png,cv2,bore a Commission.,bore a Commiseion.,0.0555555555555555
+272-02.png,cv2,"272. Letters, Orders and Instructions. October","30. Letlers, Orders and Ioestrcections. Dctober",0.1956521739130435
+272-04.png,cv2,"28th. To Captain Peter Hogg, of the Virginia","9h. To Captain Bete' lggg, of the Virginix",0.1818181818181818
+272-05.png,cv2,Regiment.,Regiment . 1s,0.4444444444444444
+272-06.png,cv2,"Sir,","Wi,",0.5
+272-07.png,cv2,I received yours of the 6th. of Octo-,Breceived yours of the 1t. 1 Octo.,0.1891891891891892
+272-08.png,cv2,"ber, inclosing the Returns of your Company,","ber, incloning the Trllirrns of your Compary,",0.1860465116279069
+272-09.png,cv2,only this day. Ferguson was sent after,only this day. Derguson was rent after,0.0526315789473684
+272-10.png,cv2,"you, but falling ill, by a Sore on his arm, was","you, but falling ill, oy a sore on hw arm, ons",0.1276595744680851
+272-11.png,cv2,"ordered to halt here, where he now remains","ordered to haltt here, wher he nor tcmaio)",0.1666666666666666
+272-12.png,cv2,"unfit for Duty"" therefore I have sent",unpt for Duty. theref or I have sent,0.1351351351351351
+272-13.png,cv2,in his room. Sergeant Wilper has received,in his toom. Sergeant bilper has seooius d,0.1951219512195122
+272-14.png,cv2,from Fort Cumberland and this place,from Bort Suembrlano and this ptace,0.1714285714285714
+272-15.png,cv2,Arms and Clothing to complete your Compa-,trms ands Clothing to complete your Compa-,0.048780487804878
+272-16.png,cv2,ny to the Establishment. He has enlisted,ny to the Eostablshment. He has intists,0.15
+272-17.png,cv2,"three men on his march, and I have or-","three men on hiy march, and I have o.-",0.0526315789473684
+272-18.png,cv2,"dered Ensign Fleming, with eight others, to",dered lnsgn Plming mth eight others to,0.1860465116279069
+272-19.png,cv2,"join you; he being a Surgeon, he is desired to","yin you; he beng a Surgeon, he is derive"" to",0.1304347826086956
+272-20.png,cv2,take care of your Company; for which he,take care of your Company. for which he,0.0256410256410256
+272-21.png,cv2,will be allowed. You must use your best,wall be allowed. Your must use youe bect,0.1025641025641025
+272-22.png,cv2,"endeavours to secure your provisions, and do","endearous to secure your prosions, and do",0.0909090909090909
+272-23.png,cv2,"with it as you see most needful ""- It is impossi-",weth it as you see moot ncedfut. Io isimpossr-,0.2040816326530612
+272-24.png,cv2,"ble I can direct about it at this distance,",hl Pcan direct about it at this distance,0.1162790697674418
+272-25.png,cv2,properly. As we have contracted for a,properly Ms we have contraited for a,0.081081081081081
+272-26.png,cv2,"large quantity of Beef already, you are","large quantity of Beef atready, yor are",0.0512820512820512
+272-27.png,cv2,desired to engage no more than what will,desired to engage no more than w hat will,0.025
+272-28.png,cv2,suffice for your own Company. I shall,suffice for your own Company. Iok all,0.081081081081081
+272-29.png,cv2,see that money is lodged with Mr. Dick,see that money is lod ged with M. Bixk,0.1052631578947368
+272-30.png,cv2,for your use when I see him. You are to,for gour use when Isee him - You are to,0.1025641025641025
+272-31.png,cv2,see the usual stoppages from the mens,see the usuat stoppages from the mens,0.027027027027027
+272-32.png,cv2,"pay while they are in the Hospital, to",pay while they are in the Bospital to,0.0526315789473684
+272-33.png,cv2,"answer the expence of Nurses, etc.",answer the enpence of Murses etc.-,0.1176470588235294
+272-34.png,cv2,You must be very careful not to slip,GYou must be very careful not to elip,0.0555555555555555
+272-35.png,cv2,the opportunity of purchasing Grain for your,the opportiinity of purchasing beain for your,0.0909090909090909
+272-36.png,cv2,"Company, that being your only dependance","Company, that beng your ouly dependance",0.05
+273-01.png,cv2,"Letters, Orders and Instructions. October 1755. 273.","3. alerr, rders and In trlcons. Octobler 1755.277.",0.2692307692307692
+273-03.png,cv2,for Bread; the Commissary having no Orders to,for Bread; the Commisary haning no orders to,0.0666666666666666
+273-04.png,cv2,make provisions for you. If any of your men,make provision for you. Ifany of your men,0.0465116279069767
+273-05.png,cv2,"should desert or die, you are immediately to","should desert or die, you are imimediately to",0.0227272727272727
+273-06.png,cv2,"Recruit others, keeping your Company to the Esta-","Recruit others, kecping your Company to the ote-",0.0816326530612244
+273-07.png,cv2,blishment.,lteichment.,0.4
+273-09.png,cv2,28th. To Lieutenant Bacon of the Maryland,"9h. Oo tiutenant Bacon, of the Mary land",0.1951219512195122
+273-10.png,cv2,Independant Company.,Independant Comp a neg.,0.2
+273-11.png,cv2,"Sir,",Sre,0.5
+273-12.png,cv2,"As those Stockades on Pattersons Creek,",I lo those Stockades on Pattersons breed,0.1794871794871795
+273-13.png,cv2,"are only intended by way of cover to the Rangers, and","are only intended by way of cover to the Rangers, and",0.0
+273-14.png,cv2,as a Receptacle now and then for Provisions; you are,as a Receptatle now and then for Provieions; you are,0.0384615384615384
+273-15.png,cv2,"desired not to plan any work, which requires much","desired not to plan any work, which regurres much",0.0408163265306122
+273-16.png,cv2,"time to execute. We have neither Men nor Tools,",time to cxecute - Or aave neither Men nor Tools,0.1489361702127659
+273-17.png,cv2,to carry on the undertaking with vigour.,to carry on the underlaking with origour.,0.075
+273-18.png,cv2,I am etc. G. W.,hi e. W,0.6666666666666666
+273-20.png,cv2,"29th. To Lieutenant Colonel Adam Stephen,","29t. To Lieutenand Eolonel tdam Stephen,",0.0975609756097561
+273-21.png,cv2,of the Virginia Regiment.,of the Virginia Regiment.,0.0
+273-22.png,cv2,"You are hereby Ordered, so soon as","Gou are hereby Ordered, so soon as",0.0294117647058823
+273-23.png,cv2,the Waggons arrive from Alexandria and Fort,the t aggons arrive from Alenandria and Fort,0.0697674418604651
+273-24.png,cv2,"Cumberland, with Clothing and Arms, to see","Cuemberland, with Elothing and trms, to see",0.0714285714285714
+273-25.png,cv2,the men completely furnished with both; and,the men comptetely furnshed with both; and,0.0465116279069767
+273-26.png,cv2,march them immediately to Fort Cumberland;,mareta them immediately to Fort Camberlandy,0.119047619047619
+273-27.png,cv2,observing to take up all the Salt which the,observing to take up all the Selt w hich the,0.0465116279069767
+273-28.png,cv2,"waggons, provided by the commissary, will carry.","coagsons, provided by the ccmmissary, will carrry.",0.1041666666666666
+273-29.png,cv2,There will come down some of the country wag-,There will come down some of the ccuntry eng,0.0888888888888888
+273-30.png,cv2,"gons, which must also be loaded up with Salt.","yons, which must also be loeded ap with bett.",0.1333333333333333
+273-31.png,cv2,As there is some clothing wanting to complete,Alo there is seme llothing wanting tocomplee,0.1333333333333333
+273-32.png,cv2,"the Companies at Fort Cumberland, you are","the Companics at Fort Camberland, you are",0.048780487804878
+273-33.png,cv2,"to take up for that purpose forty Coats, thirty - nine",to Oake ap for that purpose forty Conto thurty ninre,0.1666666666666666
+273-34.png,cv2,"waistcoats, and fifty - six pair of Breeches; thirty -","waisteoets, and fity six pair of Borches, thity-",0.2037037037037037
+273-35.png,cv2,eight Hats and eighty Shirts; which you are to have,"ags Hlod an aght, thirt, whick yor ar ther-",0.4313725490196078
+274-01.png,cv2,"274. Letters, Orders and Instructions. October 1755.","270. Letters, Orders and Instructions. October 1755.",0.0192307692307692
+274-03.png,cv2,"delivered out to the Companies, according","delivered out to the Companies, according",0.0
+274-04.png,cv2,to the Return made me at Fort Cum-,to the Return made me at Fort Cum-,0.0
+274-05.png,cv2,"berland, October 26th. - I have sent more","berland, October ths u- I have sent more",0.0975609756097561
+274-06.png,cv2,"Suits than are necessary, in case of getting","Sruuitos than are necessay, in case of getting,",0.1136363636363636
+274-07.png,cv2,a Recruit etc. You must do the best you,a Recruit ebe. You must do the bert you-,0.1025641025641025
+274-08.png,cv2,"can in Lodging the men, as the Barracks","can in Loding the men, as the Barracks",0.0256410256410256
+274-09.png,cv2,in the Fort are full. As Sergeant Wil-,"in the Fort are full"" Ms Sergeant Wil.",0.0789473684210526
+274-10.png,cv2,per is waiting the return of the waggons,per is waiting the return of the woaggons,0.025
+274-11.png,cv2,"from the Fort, for necessaries for Captain","from the Fort, for necessaries for Captain",0.0
+274-12.png,cv2,"Hoggs Company; so soon as they arrive,","Hoggs Company; so soon as they arrive,",0.0
+274-13.png,cv2,you are to see that he receives such,you are to see that he receives such,0.0
+274-14.png,cv2,"things as he has orders for, and dispatch","thinggs as he has orders for, and dispalal",0.0975609756097561
+274-15.png,cv2,"him immediately. If no other Horses, belong-","him immediately. If no other Horscs, belong,",0.0454545454545454
+274-16.png,cv2,"ing to the Country, can be had here, one","ing to the Country, can be had here, one-",0.025
+274-17.png,cv2,"of the Country Teams must be stopped,","of the Country Teams must be stopped,",0.0
+274-18.png,cv2,and the horses given to him. You must,and the horesrs iiven to him. You must,0.081081081081081
+274-19.png,cv2,engage the herdsmen to remain with,engage oe herdsrmen to remcin withi,0.1470588235294117
+274-20.png,cv2,"the Cattle, until they hear from the Com-","the Cattle, until they hear from the Com-",0.0
+274-21.png,cv2,missary or from me. You must engage,miyary or from me. ou must engeage,0.1142857142857142
+274-22.png,cv2,all the Coopers you can to make Barrels,all the Coopers you can to make Burrels,0.0256410256410256
+274-23.png,cv2,for packing the Beef; and if any of the,"for paching the Beef"" and if any of the",0.0512820512820512
+274-24.png,cv2,"Soldiers are Coopers, they must be set im-",soldiers are Coopers they muet be set im-,0.0714285714285714
+274-25.png,cv2,mediately to work. You are to receive,mediately to work. You are to receive,0.0
+274-26.png,cv2,from the Stores here thirty pounds of,from the Seores here thirty pounds of,0.027027027027027
+274-27.png,cv2,Goose - which you will deliver to,"loose shot, which you will deliver to",0.1818181818181818
+274-28.png,cv2,Captain Ashby's Company as you pass,Captain tshbyss Company as you pafs,0.0857142857142857
+274-29.png,cv2,"by, directing him to be particularly care-","by, directing him to be particularly care-",0.0
+274-30.png,cv2,ful of it. - If either of the Captains of,"ful of it"" - If aither of the Captains of",0.048780487804878
+274-31.png,cv2,the Rangers should apply to you for Ammu-,the Rangers should apply to you for tmnrmu-,0.073170731707317
+274-32.png,cv2,"nition, you are to supply him from the","nition, you are to s erpply him from the",0.0789473684210526
+274-33.png,cv2,"Fort. A Drummer, with his Drum, is","Fort. A Drummer, with his Deumy, is",0.0588235294117647
+274-34.png,cv2,to be sent from this place with Sergeant,to be sent from this place with Sergeant,0.0
+274-35.png,cv2,"Wilper, in the room of Duncan Ferguson,","Wilper, in the room of Iuncan erguson,",0.0512820512820512
+275-01.png,cv3,"Letters, Orders and Instructions. October 1755. 275.","Letters Orders, and Insbructions ortber 1es. 355.",0.2307692307692307
+275-03.png,cv3,who is to go up to Fort Cumberland. You are to see,who is togoupto Fort Camberland. You are to see,0.08
+275-04.png,cv3,that the men of the Virginia Regiment are exer-,that the men of the Virginia Regiment are ener-,0.0212765957446808
+275-05.png,cv3,cised as often every day as the duty will admit;,cised as often every day as the durty will admit,0.0416666666666666
+275-06.png,cv3,and that they are practised also in shooting at Tar-,and that they are praclised ales in shootingat r-,0.1153846153846153
+275-07.png,cv3,gets; and if there are any who are remarkably,pls; and if there are any whs are remarkably,0.0888888888888888
+275-08.png,cv3,"awkward, particular pains must be taken with","arw kwurd, particitar pains must be taken with",0.1136363636363636
+275-09.png,cv3,them. You must observe on your march good,them. You must observe on your march good,0.0
+275-10.png,cv3,"order and discipline, and see that no irregu-","nder and diseipline, and see that ns irreye-",0.1333333333333333
+275-11.png,cv3,larities happen; and that the men are not,larities happen; and that the men are not,0.0
+275-12.png,cv3,"allowed to pillage the Country, which was very","alloved to pillage the County, which was eey",0.0869565217391304
+275-13.png,cv3,much complained of in the last Detachment.,murch complained of in the last I cachment,0.119047619047619
+275-14.png,cv3,You are to apply to Major Lewis for the In-,You are to apply to Meajor Lavis for the In-,0.0697674418604651
+275-15.png,cv3,"structions which I left with him, and see",structions which f left with him and see,0.048780487804878
+275-16.png,cv3,that they are observed.,that they are sbseoved.,0.0869565217391304
+275-17.png,cv3,Given under my Hand etc.,Given under my Dand tc.,0.0833333333333333
+275-18.png,cv3,"Winchester, October G. W.","Wehester"" ereolu. bffr",0.6
+275-19.png,cv3,29th. 1755.,0o. 1755.,0.3636363636363636
+275-21.png,cv3,29th. To Mr. Commissary Dick,3tth. to r Commissary Dich,0.2142857142857142
+275-22.png,cv3,"You are, so soon as you arrive here, to","You are, so seon as you arrive here, to",0.0256410256410256
+275-23.png,cv3,give such directions as you shall see necessary about,give such directions as you thall see necessary alout,0.0377358490566037
+275-24.png,cv3,driving the Cattle to Fort Cumberland. You are,driring the Cattle to Fort bumberland - You are,0.0869565217391304
+275-25.png,cv3,"to send up Doctor Walker, or go yourself there, to","tos send up Dsetor Walker, or go yourself there, to",0.06
+275-26.png,cv3,see them killed and properly salted. Whichever of,see them killed and properly salled. Whichever of,0.0204081632653061
+275-27.png,cv3,"you remains here, must purchase such a quantity","you remains here, must purchase such a quantity",0.0
+275-28.png,cv3,of Pork as you imagine will be necessary for the,"of Sork, as yo iagine will be necessary for the",0.0833333333333333
+275-29.png,cv3,"Troops, upon the most reasonable terms you can; and","Srexps, upon the most reasonable tims you can orid",0.1764705882352941
+275-30.png,cv3,oblige them to deliver it at whatever time you shall,blige them to delivr it at whatever leime you thell,0.1153846153846153
+275-31.png,cv3,"judge most proper. You are to answer, out of the money","grdge nost prope You arts ansmer, out of the mney",0.1851851851851851
+275-32.png,cv3,"in your hands, whatever Draughts Captain Hogg","a yore hands, whateur Druiglts Ceptai Rrn-",0.3333333333333333
+275-33.png,cv3,"may draw on you for the subsistance of his Company,",arey deew on yow for the subristenes of his Compenys,0.2352941176470588
+275-34.png,cv3,from time to time. You are to see that Coopers are,fom tie to times. fou are to soe thaet Cmporsare,0.2
+275-35.png,cv3,"engaged to make Berrels for the Provisions, and to","angaged to make Berels for the roviions, anad to",0.1
+276-02.png,cv3,276. Letters Orders and Instructions. October 1755.,30 Letters Srders and Instructions Ocober 1755.,0.1372549019607843
+276-04.png,cv3,"provide all other necessaries for the Expedition,",provide all other necessaies for the Eopedition,0.0612244897959183
+276-05.png,cv3,which you know will be wanted,which youu knorw will be wanted,0.0689655172413793
+276-06.png,cv3,As there are several Contracts made by me to,Als there are several Contrao ts made by me to,0.0681818181818181
+276-07.png,cv3,have Cattle delivered here etc. by the 1st. of next,have Cattle dolivered here tc. by the 5t. of neat.,0.1176470588235294
+276-08.png,cv3,"month, - I desire that for such as you receive up-","month,  I desire that for such as yore ceceive p-",0.1
+276-09.png,cv3,"on that account, if you have money in your","on that account, if yoi have money in your",0.0238095238095238
+276-10.png,cv3,"hands, you make immediate payment.","hands, you make immddiale paymdnt.",0.088235294117647
+276-11.png,cv3,Given etc.,Gvven o.,0.4
+276-12.png,cv3,Winchester October G. W.,Brherer orceeen. ber.,0.7083333333333334
+276-13.png,cv3,29th. 1755,es neo I,1.0
+276-15.png,cv3,29th. Winchester October 29th. 1755.,20th. Wleser rcoer 1h. 1755.,0.3333333333333333
+276-16.png,cv3,Parole Williamsburgh.,Pn -t Wieliambeugp.,0.4761904761904761
+276-17.png,cv3,"One Subaltern, one Sergeant, one","Cne Subaltern, one Sergcant, one",0.0625
+276-18.png,cv3,"Corporal, one Drummer and twenty five private","Corporal, one D rummer and tiwventyofive privnte",0.1111111111111111
+276-19.png,cv3,"men, the Guard to - day - Captain Peachy is","men, the Guard today -- Captain Dacly is",0.1627906976744186
+276-20.png,cv3,ordered to take upon him the command,ordered to take upon him the command,0.0
+276-21.png,cv3,of the Recruits which arrived here under,of the Recruits which arrived here under,0.0
+276-22.png,cv3,Lieutenant Hall and Ensign Price; who are,Lierutenant ball and Ensign Piee; who are,0.0975609756097561
+276-23.png,cv3,"also ordered to act under him, until further","also ordered to act under him, intil further",0.0227272727272727
+276-24.png,cv3,"orders- Ensign Hedgeman, and the Recruits","orders- Ensign edgeman, and the RRecruits",0.048780487804878
+276-25.png,cv3,"which arrived with him, are ordered to join","which arrived with him, are ordered to join",0.0
+276-26.png,cv3,"Lieutenant King, and be under his command",Gertenant Ring and be uder kid command,0.1951219512195122
+276-27.png,cv3,"until further orders- Lieutenant Eustace, and","until further orders i Eiertenant Custace, and",0.1111111111111111
+276-28.png,cv3,"the eight men with him, are to join (as soon as",the eight men with him are to joir frseoen as,0.1489361702127659
+276-29.png,cv3,they arrive at Fort Cumberland) the Company,they arrive at Fort Cumberland; the Comprny,0.0465116279069767
+276-30.png,cv3,which Captain Waggener commands at present; -,which Captain Waggener commands at presents-,0.0444444444444444
+276-31.png,cv3,"and the Party left with Sergeant Shaw, is to re-","and the Party left with bergeant Shar, ie to re-",0.0625
+276-32.png,cv3,"turn to their respective Companies, so soon as","turn to their respective Companres, so soon as",0.0217391304347826
+276-33.png,cv3,they reach the Fort - The Commissary is to see,they reach the Tort- The Commiss ary is t see,0.0869565217391304
+276-34.png,cv3,"that the Magazine is secured, by fastening","that the Magayine is decured, by fas lening",0.0952380952380952
+276-35.png,cv3,up the windows etc. better than they now are.,"ap the windows te. better than they now are""",0.0888888888888888
+276-36.png,cv3,The Officers are to see that the men are clo-,The offieers are to see that the men aore the,0.1555555555555555
+277-02.png,cv3,"Letters, Orders and Instructions. October 1755. - 277.",Letters Orders and Instructions. I ct ber 1755.,0.2037037037037037
+277-04.png,cv3,"thed to - morrow, and to be very particular in their Accounts","thed comorow, and to be very pariarlar i their Rccouts",0.180327868852459
+277-05.png,cv3,of what they receive. They will also receive Arms so,of what they receive. They will also receive Coms eo,0.0576923076923076
+277-06.png,cv3,"soon as they arrive from Fort Cumberland, to complete their","socenas they arrive from Fot Cumberland, to comuptete thir",0.1186440677966101
+277-07.png,cv3,Recruits. They are to see that each man distinguishes,Recuits. They are to see that curch man distinguisbee,0.1132075471698113
+277-08.png,cv3,"his Firelock by some particular mark, which the Sub-","his Fielch by some particular mark, whuich the Sub-",0.0769230769230769
+277-09.png,cv3,"alterns of the Company are to enter in a Book, they are","ltens of the Companry are to enter in a Dooh, they are",0.0909090909090909
+277-10.png,cv3,to keep for that purpose. Every Officer is to provide an,to keep for that purpoe. Every offiver is te perovide an,0.0892857142857142
+277-11.png,cv3,Orderly Book to enter the Orders in as they issue every,trdesly Book to enter the trders in as they ifre every,0.109090909090909
+277-12.png,cv3,"day regularly, that they may examine them often,","day regelarly, that they way cxamine them oftrn,",0.0833333333333333
+277-13.png,cv3,and see they are duly complied with. Captain,arid see they are duly complied with. Captain,0.0454545454545454
+277-14.png,cv3,"Bronaugh, Lieutenant Stewart, Blegg and Williams,","Dronoagh, Luutonants Sewact, legg and Williamns",0.2448979591836734
+277-15.png,cv3,"sent Recruiting, and to Rendezvous at Alexandri-",sent Reoriting and to Rendozous at liecandri,0.1875
+277-16.png,cv3,"a, the 1st of December.","o, tle I of Dubr.",0.4347826086956521
+277-17.png,cv3,G. W.,Gies-,0.8
+277-19.png,cv3,"31st. To Captain Robert Spotswood, of the","th. To Captain Robert Spotewood, of the",0.1219512195121951
+277-20.png,cv3,Virginia Regiment.,Virginia Regiment,0.0555555555555555
+277-21.png,cv3,"You are hereby ordered, as soon as","You are herely ordered, as soon as",0.0294117647058823
+277-22.png,cv3,"the Clothes and Arms arrive, to furnish all the",the Clothes ans amms arive to furrnish all the,0.1276595744680851
+277-23.png,cv3,"men who now Rendezvous at Fredericksburgh,","men who nowu lendezvous at Fredericks burgh,",0.0714285714285714
+277-24.png,cv3,with both; and march them immediately,with both; and march them innmediately,0.054054054054054
+277-25.png,cv3,"with the utmost dispatch to Fort Cumberland,","witf the utmost diepatch to Fort Cumberlend,",0.0681818181818181
+277-26.png,cv3,to reinforce the Garrison. - When you arrive at,to reinforce the Garriion- Wher you arive at,0.1063829787234042
+277-27.png,cv3,"Winchester, you must provide your men with Car-","Winchester, you ourst provide your men ith brr-",0.1063829787234042
+277-28.png,cv3,tridges. - You are to be very careful and circum-,thidges You are to be uery careful and eircum-,0.1224489795918367
+277-29.png,cv3,spect in your march; and see that your men,spect in yo march; and see that yoer men,0.0714285714285714
+277-30.png,cv3,"do not on any account whatsoever, plunder or","do not on any arcount whalsoever, plunder o",0.0681818181818181
+277-31.png,cv3,"pillage the Houses which the people have deserted,","aitlage the Houses which the people have desettee,",0.08
+277-32.png,cv3,"or any others, - or Plantations. - Lieutenant Fra-",ar any others. n I lentations widieutenant Sre-,0.26
+277-33.png,cv3,"zier and Ensign Carter, are appointed to this Com-","gier and Cnsign Carter, are appointed to thislon-",0.1
+277-34.png,cv3,mand,mand,0.0
+277-35.png,cv3,Given etc.,Gven etc.,0.1
+277-36.png,cv3,G. W.,3.,0.8
+278-01.png,cv3,"278. Letters, Orders and Instructions. October 1755.","30h. Letters, Orders and Instructions ertber o",0.2307692307692307
+278-03.png,cv3,1st. To Captain John Mercer of the,"55th To Captain Son Meircer, of the",0.2058823529411764
+278-04.png,cv3,Virginia Regiment.,Hirginia Rejiment.,0.1111111111111111
+278-05.png,cv3,You are hereby ordered to Ren-,You are hereby ordered to Ren.,0.0333333333333333
+278-06.png,cv3,dezvous at Alexandria the first Day of,dezvous at Alexandria the first Day ofi-,0.0526315789473684
+278-07.png,cv3,"December, with all the men you can","December, with all the men you can",0.0
+278-08.png,cv3,raise by that time.,aaise by that time,0.1052631578947368
+278-09.png,cv3,"Given etc. at Fredericksburg,",Given etc. at Fredericksbung.,0.0689655172413793
+278-10.png,cv3,November 1st. 1755.,Aovember o 1755.,0.2631578947368421
+278-11.png,cv3,G. W. Aid de camp.,G . eide de camp.,0.2222222222222222
+278-13.png,cv3,N.B. Captain Joshua Lewis is allowed to,Ws Capfain Johurd hewiis is alove d to-,0.358974358974359
+278-14.png,cv3,"the 1st. of December, to Rendezvous at Alex-","the 5L. of ecember, to endezvous at Olec-",0.1590909090909091
+278-15.png,cv3,andria.,andria.,0.0
+278-17.png,cv3,"1st. To Mr. Boyd, Paymaster.","5th. 2. "" Boyd, Paymaster",0.3214285714285714
+278-18.png,cv3,As Colonel Stephen has brought,As Co lonel Dephen bas brought.,0.1666666666666666
+278-19.png,cv3,"£1000 which I wrote for to pay off the Troops,",f ees which Suote for to pay off the Vioops,0.2608695652173913
+278-20.png,cv3,it will save you a journey to Williams-,it will seve you a youvney to Wulliams-,0.1025641025641025
+278-21.png,cv3,"burg at this time"" but I think it absolutely","burg at this time"" but I thinh it ab olutely",0.0454545454545454
+278-22.png,cv3,"necessary that you should, after paying the","necesiary that you should, after payino the",0.0465116279069767
+278-23.png,cv3,"Troops in Garrison, go into Augusta, to pay","Troops in Garrion, go into Aurgurtta, to pay",0.0930232558139534
+278-24.png,cv3,"off Captain Hoggs Company, which is now","of Captain Hoggo Company, hich io nou",0.1282051282051282
+278-25.png,cv3,complete; unless you can send the money,somplete; unless you can send the money,0.0256410256410256
+278-26.png,cv3,"by Mr. Mc. Clenachan, or some safe hand","by t. . Cenachan, or some safe hand",0.1282051282051282
+278-27.png,cv3,from hence. The Recruits at Fort,form lence. Wle Recuuits a ent,0.3125
+278-28.png,cv3,Cumberland are all paid off to the 1st. of Oc-,Cumberland are all paid off to the 5th of ec-,0.0869565217391304
+278-29.png,cv3,"tober as private men, there being no distinc-","tober as private men, there being no distinc-",0.0
+278-30.png,cv3,"tion made between them and Sergeants,","tion made between them and Sergeantts,",0.027027027027027
+278-31.png,cv3,none having yet been regularly appointed.,none haiing et been rejulacly appeiinted.,0.1463414634146341
+278-32.png,cv3,Colonel Stephen will give you an ac-,"E olonel, IS tepben will gve yyou an ae-",0.25
+278-33.png,cv3,"count of those he has paid, and how -",count of those he haspaid and hors-,0.1081081081081081
+278-34.png,cv3,"If any have received Sergeants pay, it","I f any have received Sergeants pay, it",0.0263157894736842
+278-35.png,cv3,"must be deducted next payment"" as also",must be ded ucted neat pay mentt as also,0.1052631578947368
+279-01.png,cv3,"Letters, Orders and Instructions. November 1755.279.","hetlers, Orders and Instructions. Hvember 1755555.",0.1538461538461538
+279-03.png,cv3,"two - pence per month, from each non - commissioned","tivcpente per mowth, pom cach noncommessioned",0.2745098039215686
+279-04.png,cv3,Officer and Soldier for purchasing medicines; -,Officer and Soldier for purchasing mediiness-,0.0638297872340425
+279-05.png,cv3,this is to be paid to the Surgeon Quarterly. There is,les is to be paid to he Sugon Ructerly. heret.,0.2452830188679245
+279-06.png,cv3,also six - pence per month to be stopped from the Drum-,alss siepenee por month to be stopped from the drem-,0.1636363636363636
+279-07.png,cv3,"mers, to be paid to the Drum - Major for teaching them,","mers, o be pait to the Deum Mejor for teaching bhen,",0.1454545454545454
+279-08.png,cv3,and repairing the Drums. - These deductions you are,and repairig the Deums-. These dedeurctions you are,0.1372549019607843
+279-09.png,cv3,hereby ordered to make each pay - day; unless coun-,herely ordered to ake sach payoday; unless coun-,0.1176470588235294
+279-10.png,cv3,termanded by the Governor or myself. If any non-,lermanded by the Govenor or myself. If any cor-,0.0833333333333333
+279-11.png,cv3,commissioned Officer or Soldier should happen to,coimissined officer or Soldier should happen to,0.0625
+279-12.png,cv3,"die, he is to be continued on the pay roll as an ef-","die, heo is to be continurd on the pay roll asanog-",0.1153846153846153
+279-13.png,cv3,"fective man for twenty eight days, to pay for his","fectivo men la bventyaight days, to pay for his",0.1836734693877551
+279-14.png,cv3,"Coffin, etc. I am etc.",Copfin etc. Iam etc.,0.1363636363636363
+279-16.png,cv3,"1st. To Commissary Jones, - Or to George Conway.","5t. . o Commysary Ines, - or to senge Conme-",0.3333333333333333
+279-17.png,cv3,You are hereby Ordered to deliver,You are hereby ordered to delive,0.0606060606060606
+279-18.png,cv3,to Sergeant Wilper (taking his receipt for the same),te Sergeant Wilper tokinghis receipt for the ames,0.1153846153846153
+279-19.png,cv3,"for the use of Captain Hoggs Company, eight","for the ure of Captain Hggs Compeny, eght",0.0930232558139534
+279-20.png,cv3,"Regimental Coats, ten Waistcoats, ten pair of","Regimental Conts, ten suistco ats, ten pair of",0.0888888888888888
+279-21.png,cv3,"Breeches, nine Hats, eleven Shirts, as many","Brueches, nine bats, leveniShirts, as many",0.0930232558139534
+279-22.png,cv3,"pair of Stockings, and the same quantity of","pai of Serckings, and the same quantity of",0.0697674418604651
+279-23.png,cv3,Shoes. - You are also to deliver to the said,thoes  You are also to deliver to the said,0.0681818181818181
+279-24.png,cv3,"Wilper, for the use of the said Company, - twelve","Wisper, for the use of the staid Company twelve",0.1020408163265306
+279-25.png,cv3,"Musquets; twenty Bayonets, and ten Cartouch-","muquets, toenty Beyonets, and ten Cartowh-",0.1590909090909091
+279-26.png,cv3,"Box's, out of those Arms now in Store.","Boxs, out of those aoms now in iStore.",0.1052631578947368
+279-27.png,cv3,G. W.,K.,0.8
+279-28.png,cv3,N.B. The Bayonets must be delivered out of those,"N""0. The Bayonets must be delivered out of there",0.0833333333333333
+279-29.png,cv3,"loose ones in the Store"" You are also ordered to de-","lene ones in the Otoe"" You are als owderes tode.",0.1923076923076923
+279-30.png,cv3,liver twenty Blankets.,lever teventy Ilankets-,0.2272727272727272
+279-32.png,cv3,"Octo. 30th. To Sergeant David Wilper, of the Virginia","rts To lergeant David Wisprer, of the Vigimia",0.2830188679245283
+279-33.png,cv3,Regiment.,Regiment.,0.0
+300-02.png,cv4,"300. Letters, Orders and Instructions. December 1755.","308. Letteors, Orders and Instructionc. Decembor 175.",0.0943396226415094
+300-04.png,cv4,"Hogg's Company, if any opportunity offers.","Toggs Company, if any opportunity offers.",0.0476190476190476
+300-05.png,cv4,You are to be particularly ex-,You are to be particularly ea-,0.0333333333333333
+300-06.png,cv4,"act and careful in these payments"" see-",act and careful in thes e paymentrrsee-,0.1025641025641025
+300-07.png,cv4,ing that there is no disagreement between,ing that there is no dis aareement betwcen,0.073170731707317
+300-08.png,cv4,"the Returns, and your Pay-Rolls; as there","the Returns, and your Jay Rolls; as there",0.048780487804878
+300-09.png,cv4,will be strict examination into it hereaf-,will be stict examination into it hereaf-,0.0238095238095238
+300-10.png,cv4,ter. I am etc.,terc. I am Oec.,0.2142857142857142
+300-11.png,cv4,G. W.,Reg,1.0
+300-12.png,cv4,"Alexandria"" December 3, 1755.","Alexandria"" December 1. 1755.",0.0689655172413793
+300-14.png,cv4,"5th. To the Honourable Robert Dinwiddie,","29th. To the Honourable Robert Dinwiddie,",0.05
+300-15.png,cv4,Esquire; Governor.,Csqire; Governor.,0.1111111111111111
+300-16.png,cv4,"I have sent the Bearer, Cap-","I have seit the Bearer, Cap-",0.0357142857142857
+300-17.png,cv4,tain John Mercer (who has accompts to,tain ohn e ercer fwhshas aecomp esto,0.2702702702702703
+300-18.png,cv4,settle with the Committee to the Treasu-,settle with the Committee;y to the Creasu-,0.075
+300-19.png,cv4,rer for the balance of that ten thousand,rer for the Cbalange of that ten thousand,0.05
+300-20.png,cv4,"pounds; and to aquaint your Honour,",founds; and to acguraint your Honour,0.1428571428571428
+300-21.png,cv4,that meeting with Letters at Fredericks-,"that meeting with f, etters at Fredericks-",0.075
+300-22.png,cv4,"burgh, as I returned from Williamsburgh,","burgh, as Iretumed from Williamsburgh.",0.1
+300-23.png,cv4,informing me that all was peaceable,infomming me that all was peaccable,0.0571428571428571
+300-24.png,cv4,"above, and that nothing was so imme-","alove, and that mothing was so imme-",0.0555555555555555
+300-25.png,cv4,diately wanting as Salt. I got what I,diately wanting as Saet. I got what d,0.054054054054054
+300-26.png,cv4,"could at that place, and hastened on","could at that place, and hastened on",0.0
+300-27.png,cv4,here to engage more; - to receive the Recruits,here to engage more - to receive the Recrits.,0.0652173913043478
+300-28.png,cv4,that were expected in; and to wait the ar-,that were eapected in; and to wait the ar-,0.0238095238095238
+300-29.png,cv4,"rival of the Vessel with arms, etc. from James","rinal of the Aessel with ams, etc. from James",0.0652173913043478
+300-30.png,cv4,"River, in order to forward them up with","River, in order to forrward them up with",0.0256410256410256
+300-31.png,cv4,the greater dispatch. The Vessel is not yet,the greater dispatch. The vessel ieot yet,0.0930232558139534
+300-32.png,cv4,arrived. -,"W8irk, amd",1.0
+300-33.png,cv4,I have impatiently expected,I have impatiently eapectes,0.074074074074074
+300-34.png,cv4,to hear the result of you Honours Letter,to hear the result of your Honours hetter,0.05
+300-35.png,cv4,to General Shirley; and with that the de-,to General Shirley; and wish that the de-,0.024390243902439
+301-03.png,cv4,Letters Orders and Instructions. December 1755.,Letters Ordens and Instructions. December 6.,0.1063829787234042
+301-05.png,cv4,"lays may not prove ominous. In that case, I","lays may not prove ominous. In that aase, I",0.0232558139534883
+301-06.png,cv4,shall not know how to act; for I can never,shall not nors hou to aet; for I can never,0.119047619047619
+301-07.png,cv4,submit to the command of Captain Dag-,sutmit to the command of Capltain d ag-,0.1081081081081081
+301-08.png,cv4,"morthy, since you have honoured me with","wortk, since you have honoured me with",0.0769230769230769
+301-09.png,cv4,"the Command of the Virginia Regiment,",the command of the Virginia Regiment.,0.054054054054054
+301-10.png,cv4,etc. The Country has sustained inconceivable,13tThe Country has sustained mconciate,0.25
+301-11.png,cv4,"losses by delaying the Commissaries at Williamsburgh""",bosses by delaying the Commissaries at Williamsburh,0.0566037735849056
+301-12.png,cv4,"many of the Carolina Beeves are dead, through ab-","many of the Carolina Baws are dead, theoughes",0.1836734693877551
+301-13.png,cv4,solute poverty; and the chief part of them too poor,olute poverty; and the chief part of them torpoor,0.0588235294117647
+301-14.png,cv4,"to slaughter. We are at a loss how to act, for want",t staughtes. He are at a lof how to aet boraant,0.2156862745098039
+301-15.png,cv4,of the mutiny Bill; and should be obliged to,of the muting Hill; and should be ohliged to,0.0681818181818181
+301-16.png,cv4,"your Honour to have fifty or an hundred printed,","yous Honous to hene fiftfs or an heideed, trenle,",0.2916666666666667
+301-17.png,cv4,and sent by the Bearer. There is a clause in,and unt by the Bearer. Shere is aclavse in,0.1136363636363636
+301-18.png,cv4,"that Bill, which if you are not kind enough",that Bele wkich of you are nd hind enough,0.1860465116279069
+301-19.png,cv4,"to obviate, will prevent entirely the good inten-","to oiate, will prevent onrely the good inten-",0.1020408163265306
+301-20.png,cv4,"tion of it"" i.e. delaying the execution of Sen-",ron of tr i e deiaying the eneeution of Sen,0.2127659574468085
+301-21.png,cv4,"tences, until your Honour shall be made ac-","tences, until your Slonour shall be made ae-",0.0697674418604651
+301-22.png,cv4,quainted with the proceedings of the Court.,quainted with the proceedings of the Court.,0.0
+301-23.png,cv4,"This, at times when there is the great-","This, at tines when there is thieged",0.1794871794871795
+301-24.png,cv4,"est occasion for Expamples, will be morally im-","est oecasion for Capamples, will be morally im-",0.0638297872340425
+301-25.png,cv4,possible (I mean while we are on our march;,"possibhe II mean while we are on our martch,",0.0930232558139534
+301-26.png,cv4,perhaps near the Ohio) when none but strong par-,perkaps near the thees when none but strong fpert,0.1666666666666666
+301-27.png,cv4,"ties can pass with safety"" at all times it must be","ties can pass with safety"" at all limes it mnt b",0.08
+301-28.png,cv4,"attended with great expence, trouble and inconve-","attended with great Capence, trouble and incower.",0.1224489795918367
+301-29.png,cv4,niency. this I represented to Colonel Corbin and,niney his o repusented to Colonel Corlin and,0.1666666666666666
+301-30.png,cv4,"some other Gentlemen of the Council, when I","some other Gentlemen of the Couneil, when b",0.0465116279069767
+301-31.png,cv4,was down; who said that that objection to,wes down; who sa d that that ofiection to,0.0975609756097561
+301-32.png,cv4,"the Bill would be removed, by your Hon-","the Bill would be removed, by your Hon-",0.0
+301-33.png,cv4,"ours giving Blank Warrants, to be filled up","ours giving Blank Barrants, to be flled up",0.0465116279069767
+301-34.png,cv4,as occasion should require. This would effec-,as orcasion should reguire. This would cffeet.,0.1333333333333333
+301-35.png,cv4,"tually remedy all those Evils, and put things","taally remedy all thosc Coits, and put things",0.1111111111111111
+301-36.png,cv4,in their proper channel.,in their proper channel.,0.0
+301-37.png,cv4,We suffer greatly for want of Ket-,Wo seffer peatls be ount of iet.,0.3529411764705882
+302-01.png,cv4,302. Letters Orders and Instructions. December 1755.,"308. Letters, Orders and Instructions. Decembor 1755.",0.0576923076923076
+302-03.png,cv4,"Kettles"" those sent from below being Tin, are of","Rectles"" thou sent from below being iw, are of",0.125
+302-04.png,cv4,"small duration. We shall also in a little time,","small duration. te chall ates in a litle twe,",0.1702127659574468
+302-05.png,cv4,suffer as much for want of Clothing; none,suffer as much for went of Clothing; none,0.024390243902439
+302-06.png,cv4,"can be got in these parts"" those which Major",can be got in these partss those which Majn,0.0681818181818181
+302-07.png,cv4,"Carlyle and Dalton contracted to furnish,","Carlyle and Dalton contractled to furmish,",0.048780487804878
+302-08.png,cv4,we are disappointed off. Shoes and Stockings,we are dis appointed off- Shoes and Storckings,0.0681818181818181
+302-09.png,cv4,"we have, and can get more if wanted, but","me have, and cun gel more ef wanted, but",0.1
+302-10.png,cv4,nothing else. I should be glad your Honor,nothing else. Ishould be glad your Honor,0.024390243902439
+302-11.png,cv4,would direct what is to be done in these ca-,would direet whal is to be done in theseta-,0.0909090909090909
+302-12.png,cv4,ses; and that you would be kind enough to,ses; and that you wuld be kind enough to,0.024390243902439
+302-13.png,cv4,desire the Treasurer to send some part of the,desire the Freasurer to send some pait of the,0.0444444444444444
+302-14.png,cv4,"money in gold and silver"" were this done, we","movey in gold and silver"" were this done, we",0.0227272727272727
+302-15.png,cv4,might often get necessaries for the Regiment,migte ofens get necessaries for the Regiment,0.0909090909090909
+302-16.png,cv4,"in Maryland or Pennsylvania, when they","i Maryland or Iennsnglvania, when they,",0.131578947368421
+302-17.png,cv4,can not be had here. but with our money,"can not be had here"" But with our money",0.0512820512820512
+302-18.png,cv4,it is is impossible; our paper not passing there.,it is is impossible; orr paper not passingthere.,0.0408163265306122
+302-19.png,cv4,The recruiting Service goes on ex-,The recruiting Sevice goes on er-,0.0588235294117647
+302-20.png,cv4,tremely slow. Yesterday being a day appointed,tremely Clow. Yesterday being a day appointed,0.0222222222222222
+302-21.png,cv4,"for Rendezvousing at this place, there came in","for Rendeyovousing at this place, there came ia",0.0652173913043478
+302-22.png,cv4,ten Officers with twenty men only. If I had,ten Officers with twenty men only. If I had,0.0
+302-23.png,cv4,"any other than paper money, and you appro-","any other than paper money, and you appre-",0.0238095238095238
+302-24.png,cv4,ved of it; I would send to Pennsylvania,wed of it I would send to Ienns gliania,0.1538461538461538
+302-25.png,cv4,"and the Borders of Carolina"" I am confident,","and the Borders of Carolina""I am confident",0.0454545454545454
+302-26.png,cv4,men might be had there. Your Honor,men might be had there. Your Honor,0.0
+302-27.png,cv4,never having given any particular Directi-,never having gven any par licuchar Diecle-,0.1904761904761904
+302-28.png,cv4,ons about the Provisions; I should be glad to,ms about the Provisions; Ichould be glad to,0.0888888888888888
+302-29.png,cv4,"know, whether you would have more laid in","norws, whether you would have more laid in",0.073170731707317
+302-30.png,cv4,than what will serve for twelve hundred men;,"than what will seve for twelve hundred men,",0.0454545454545454
+302-31.png,cv4,that I may give orders accordingly.,that It may give Orders accordingly.,0.0571428571428571
+302-32.png,cv4,"As I can not now conceive, that","Als o can not now conceive, thas",0.0967741935483871
+302-33.png,cv4,any great danger can be apprehended at,any great danger can be apprehended at,0.0
+302-34.png,cv4,"Fort Cumberland this Winter; I am sensible,",Fort Cumberland this Wintery o am sensible,0.0697674418604651
+302-35.png,cv4,"that my constant attendance there, can not","that my constant allend ance there, can not",0.0714285714285714
+303-02.png,cv4,Letters Orders and Instructions December. 1755.,Letters Orders and Instructions. Decembor 1755.,0.0638297872340425
+303-04.png,cv4,be so serviceable as riding from place making the,be so serviceable asriding from place makingthe,0.0408163265306122
+303-05.png,cv4,"proper Dispositions, and seeing that all our neces-","proper Dispouitions, and seeing that all oue neaf.",0.1176470588235294
+303-06.png,cv4,saries are forwarded up with dispatch. I there-,saries are forwarded up with dispatch. Ithere-,0.0212765957446808
+303-07.png,cv4,fore think it advisable to inform your Honour,fre think it arsorsable to ifomm your Honour,0.1555555555555555
+303-08.png,cv4,"of it, hoping that it will correspond with your own opinion.","of it, hoping that it will comespond with your ouwn opinion.",0.05
+303-09.png,cv4,"I forgot to mention when I was down, that Mr. Living-","Iforgot to mention when I was down, that M. Gimng-",0.0943396226415094
+303-10.png,cv4,"ston, the Fort - Major, was appointed adjutant to our","ston, the Fort. Majo, was appointed agjetant to our",0.0943396226415094
+303-11.png,cv4,"Regiment"" - I knew of none else whose long servitude","Regiment""- I kner of none else whose long semitwea",0.1346153846153846
+303-12.png,cv4,"in a military way, had qualified better for the office,","in a military way, hed qunlified betr for the Offar,",0.1454545454545454
+303-13.png,cv4,he was appointed the 17th. of September.,he was appointed the 6th. of September.,0.05
+303-14.png,cv4,"Captain Mercer's pay, as aid de camp,","Captain Aerceis pay, as Aid ce canp.",0.1891891891891892
+303-15.png,cv4,seems yet doubtful; I should be glad if your Honour,seems get doublfl; I should be glad if your Horour,0.0784313725490196
+303-16.png,cv4,"would fix it"" so is Captain Stewarts"" If Captain Stew-","wonld fia ito so is Captain Semmrtsr"". If Cuaplain tev-",0.2222222222222222
+303-17.png,cv4,"arts is encreased, I suppose all the Officers belonging","arts is enareased, Sosuppose all the Offiarsbelongg",0.1454545454545454
+303-18.png,cv4,to the Light Horse will expect to have theirs augmen-,to the fight Hose will capect to have thins argwen,0.1698113207547169
+303-19.png,cv4,"ted also. Colonel Stephens, in a late letter, dis-","ed alsc. Colonel Sephens, in a late letter, his.",0.1
+303-20.png,cv4,covered an inclination to go to the Creek and Che-,ccvered an inalinalion to gr to the Creck ans khe-,0.14
+303-21.png,cv4,rokee Indians this Winter. I told him where to ap-,rcke I ndians this tinter. Itold him where to apo-,0.12
+303-22.png,cv4,"ply, if he had any such thoughts. I believe, on","2y, if he had any such thoughter. Sbelieve, ow",0.1489361702127659
+303-23.png,cv4,"so useful a Business, he might be spared until","so useful a Busineg, he might be opared unlil",0.0869565217391304
+303-24.png,cv4,the Spring. If your Honor think proper to or-,the Cging. If your Honor thinh proper to Or,0.1333333333333333
+303-25.png,cv4,der the Act of Assembly for apprehending Deser-,der the Met of A sembly for apprchendins Dres,0.1914893617021276
+303-26.png,cv4,"ters, and against harbouring them, to be published","ters, and againt harbouring them, to be pullished",0.04
+303-27.png,cv4,"every Sunday in each parish Church, until the","ooery Sunday in each parith Cherch, utl the",0.1333333333333333
+303-28.png,cv4,"people were made acquainted with the Law, it would","pople were made asguaintet with th lar, it ent",0.24
+303-29.png,cv4,have a very good effect. The Commonalty in gene-,have a very good effect. The Commonalty ir gen,0.0625
+303-30.png,cv4,"ral, or more through ignorance than design"" few","cal, ar more hegh yroranes than derignt fes",0.2978723404255319
+303-31.png,cv4,"of them are acquainted that such a Law exists"" and",of then are acguainted that such akevcaites ond,0.26
+303-32.png,cv4,there is no other certain way of bringing it to their,there is ho ther aartain wey of bingingit tothei,0.1698113207547169
+303-33.png,cv4,knowledge. There are a great many of the men,"kaowledge. There are a great man, t the en",0.1136363636363636
+303-34.png,cv4,"that did once belong to our Companies, deserted","dil did onee belong to our Companies, desarts",0.1702127659574468
+303-35.png,cv4,from the Regiments into which they were draugh-,fro the Regiments into which they were de,0.1489361702127659
+303-36.png,cv4,"ted, that would now gladly return if they could","ad, that would now gfasly retuin, if they entd",0.2127659574468085
+304-01.png,cv4,304. Letters Orders and Instructions. December 1755.,V0eg. Letters Orders and Instructions. December 1755.,0.0576923076923076
+304-03.png,cv4,be sure of idemnity. If your Honor would,be sure of indemnlly. If your Hlonor would,0.1
+304-04.png,cv4,be kind enough to intimate this to General,be kind enough to intimate this to General,0.0
+304-05.png,cv4,"Shirley, or the Colonels of those Regiments, - it","Shirley, or the Colonels of those Regiments, uit",0.0408163265306122
+304-06.png,cv4,"would be of service to us"" without leave we",wld be of srvice to us; withowt leave ve,0.1395348837209302
+304-07.png,cv4,dare not receive them. etc.,dare not receive them be.,0.1481481481481481
+304-08.png,cv4,G. W.,G. We.,0.2
+304-09.png,cv4,"Alexandria"" December","Alexanotria"" Deuember",0.15
+304-10.png,cv4,5th. 1755.,N. mr,0.8
+304-11.png,cv4,"5th. To John Robinson Esquire, Speaker.",20t. Th. Hohn Robinoon Caguiere Greaker.,0.358974358974359
+304-12.png,cv4,"The Bearer, captain John Mercer,",The Bearer Captain fohn Mereer.,0.15625
+304-13.png,cv4,having leave to go down and Settle his ac-,aving heave to go down and Deltle his trc-,0.1428571428571428
+304-14.png,cv4,compts with the Committee; is ordered to,compts with the Committee; is ordered to,0.0
+304-15.png,cv4,call upon you for the balance of the ten,call upon you for the balance of the ton,0.025
+304-16.png,cv4,"thousand pounds, which I believe we shall","thousand pounds, whiich I helicve we thall",0.0975609756097561
+304-17.png,cv4,want before another opportunity may offer;,want before another opporluenity may offer,0.0714285714285714
+304-18.png,cv4,this being the time when our Demands for,this being the time when owr A cmamdsfor,0.15
+304-19.png,cv4,money are greatest. When I left Willi-,money are greatest. Whc-. Dele 1pt5. 175l5.,0.3947368421052631
+304-20.png,cv4,"amsburgh, I intended to proceed to Winches-","amsbregh, a intended to proased to Winches-",0.1162790697674418
+304-21.png,cv4,ter; but meeting with Letters at Fredericks-,"ter; but meeting wiith dettrers, at Fredericks-",0.0909090909090909
+304-22.png,cv4,"burgh, informing me that peace prevailed","burgh, infomming me that psearce prvailed",0.1
+304-23.png,cv4,"above, and that nothing was immediate-","alvve, and tiat rothing was imme diale-",0.1578947368421052
+304-24.png,cv4,ly wanted but Salt; I came up here to en-,y wanted but Salt; I came up here to en-,0.024390243902439
+304-25.png,cv4,"gage what I could, and to wait the arrival","gage what I could, und to wait the arrivml",0.0476190476190476
+304-26.png,cv4,of some Recruits at this place; and a Vessel,"of some Recruits at this place, and a Oeyfsel",0.0909090909090909
+304-27.png,cv4,"with sundry arms, etc. for the Troops. This Ves-","with sundry toums, etc. for the ioxps. Hhis ers-",0.1875
+304-28.png,cv4,"sel left Williamsburgh two days after I did,",sel lef t illiamsburgh two darss after Idid,0.1363636363636363
+304-29.png,cv4,"and is not yet arrived"" neither is the Ex-","and is not yet arrived"" nuither ithe Ca-",0.119047619047619
+304-30.png,cv4,"press returned, which the Governor sent to","press returned, which the Governor sent to",0.0
+304-31.png,cv4,General Shirley for Commissions for the,General Shirley for Commissions for the,0.0
+304-32.png,cv4,"Field Officers of our Regiment"" which gives",S ield Officers of our Regiments; which gives,0.0930232558139534
+304-33.png,cv4,me much concern; fearing that this de-,me much concerntf feariing that this de-,0.0789473684210526
+304-34.png,cv4,"lay is ominous. In that case, I shall not","lay it ominous. In that case, I shall no",0.048780487804878
+304-35.png,cv4,know how to act; - it will be useless for me,"row hor to act, - it will be useless for me",0.0909090909090909
